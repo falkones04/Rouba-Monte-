@@ -18,7 +18,7 @@ namespace Jogo
 
         public override string ToString()
         {
-            return $"{num} de {naipe}";
+            return $"{num}{naipe}";
         }
     }
 }

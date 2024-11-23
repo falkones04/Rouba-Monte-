@@ -3,8 +3,8 @@ namespace Jogo
 {
     class Celula
     {
-        private Carta? elem;
-        private Celula? prox;
+        private Carta elem;
+        private Celula prox;
 
         public Celula()
         {

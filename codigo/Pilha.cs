@@ -31,12 +31,10 @@ namespace Jogo
         }
         public void Mostrar()
         {
-            Console.WriteLine("[");
             for (Celula i = topo; i != null;i = i.Prox)
             {
-                Console.WriteLine($"Carta {i.Elem},");
+                Console.WriteLine($"{i.Elem}");
             }
-            Console.WriteLine("]");
         }
     }
 }
