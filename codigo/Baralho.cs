@@ -3,7 +3,7 @@
     class Baralho : Pilha
     {
         private int numDeBaralho;
-        private static readonly Random random = new Random();
+        private Random random = new Random();
 
         public Baralho(int numDeBaralhos) : base()
         {
@@ -13,7 +13,10 @@
             this.numDeBaralho = numDeBaralhos;
             IniciarBaralho();
         }
-
+        public Baralho() : base()
+        {
+            Pilha pilha = new Pilha();
+        }
         private void IniciarBaralho()
         {
             List<Carta> list = new List<Carta>();

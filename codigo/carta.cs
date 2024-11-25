@@ -1,6 +1,4 @@
-﻿
-
-namespace Jogo
+﻿namespace Jogo
 {
     class Carta
     {
@@ -16,10 +14,7 @@ namespace Jogo
 
         public string GetNaipe() { return naipe; }
 
-        public override string ToString()
-        {
-            return $"{num}{naipe}";
+        public override string ToString() {return $"{num}{naipe}";
         }
     }
 }
-

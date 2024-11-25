@@ -1,14 +1,15 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.ComponentModel.Design;
 namespace Jogo
 {
     class Rouba_Monte
     {
         static void Main(string[] args)
         {
-            Baralho pilha = new Baralho(1);
-            pilha.Mostrar();
-            Console.Read();
+            Mesa teste  = new Mesa(2,1);
+            teste.ColocarPlayer(3);
+            teste.ComprarCartaDaVez();
         }
     }
 }

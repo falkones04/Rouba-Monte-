@@ -1,7 +1,6 @@
 ﻿
 namespace Jogo
 {
-
     class Pilha
     {
         private Celula? topo;
@@ -15,7 +14,6 @@ namespace Jogo
             tmp.Prox = topo;
             topo = tmp;
             tmp = null;
-
         }
         public Carta Pop()
         {
@@ -27,14 +25,17 @@ namespace Jogo
             tmp.Prox = null;
             tmp = null;
             return elem;
-
         }
         public void Mostrar()
         {
-            for (Celula i = topo; i != null;i = i.Prox)
+            for (Celula i = topo; i != null; i = i.Prox)
             {
                 Console.WriteLine($"{i.Elem}");
             }
+        }
+        public Carta ExibirTopo()
+        {
+            return topo.Elem;
         }
     }
 }
