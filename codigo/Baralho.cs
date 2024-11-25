@@ -31,14 +31,14 @@
                     }
                 }
             }
-            Shufle(list);
+            Shuffle(list);
             foreach (var carta in list)
             {
                 Push(carta);
             }
         }
 
-        private void Shufle(List<Carta> list)  //FisherYatesShuffle
+        private void Shuffle(List<Carta> list)  //FisherYatesShuffle
         {
             for (int i = list.Count - 1; i > 0; i--)
             {

@@ -37,5 +37,10 @@ namespace Jogo
         {
             return topo.Elem;
         }
+        public Celula Topo
+        {
+            get { return this.topo; }
+            set { this.topo = value; }
+        }
     }
 }

@@ -32,18 +32,20 @@ namespace Jogo
         public Carta ComprarCartaDaVez() 
         {
             Carta cartaDaVez = Monte.Pop();
-            return cartaDaVez; 
+            return cartaDaVez;
         }
         public void Ação1(Jogador jogadorAtual)
         {
             Carta cartadavez = Monte.Pop();
             foreach (var jogador in Jogadores)
             {
-                if(cartadavez == jogador.monte.ExibirTopo())
+                if (cartadavez == jogador.monte.ExibirTopo())
                 {
-                    JogadorAtual.PegarOMonte(jogador);
+                    jogadorAtual.PegarOMonte(jogadorAtual.monte,jogador.monte);
                 }
             }
         }
+
+
     }
 }

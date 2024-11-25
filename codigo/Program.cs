@@ -7,9 +7,12 @@ namespace Jogo
     {
         static void Main(string[] args)
         {
-            Mesa teste  = new Mesa(2,1);
-            teste.ColocarPlayer(3);
-            teste.ComprarCartaDaVez();
+            Baralho n1 = new Baralho();
+            Baralho n2 = new Baralho();
+            Jogador p1 = new Jogador("anderson");
+
+            p1.PegarOMonte(p1.monte,n2);
+            p1.monte.Mostrar();
         }
     }
 }
