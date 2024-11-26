@@ -7,38 +7,25 @@ namespace Jogo
         public string Nome { get; set; }
         private Fila ranking;
         public int Posicao { get; set; }
-        public Baralho monte;
+        public Baralho monte; 
+        public int Quantidade { get; set; } 
 
         public Jogador(string nome)
         {
             Nome = nome;
-            ranking = new Fila(5);
+            ranking = new Fila(5); 
             Posicao = 0;
-            monte = new Baralho();
+            monte = new Baralho(); 
+            Quantidade = 0;
         }
-
         public void AdicionarRanking()
         {
-            if (ranking.IsQueueIsFull())
+            if (ranking.IsQueueIsFull()) 
             {
-                ranking.Remover();
+                ranking.Remover(); 
             }
-            ranking.Inserir(Posicao);
+            ranking.Inserir(Posicao); 
         }
 
-        public void PegarOMonte(Baralho destino, Baralho origem)
-        {
-            Pilha tmp = new Pilha();
-            while (origem.Topo != null)
-            {
-                Carta carta = origem.Pop();
-                tmp.Push(carta);
-            }
-            while (tmp.Topo != null)
-            {
-                Carta carta = tmp.Pop();
-                destino.Push(carta);
-            }
-        }
     }
 }

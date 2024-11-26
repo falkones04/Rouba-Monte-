@@ -18,7 +18,7 @@ namespace Jogo
         public Carta Pop()
         {
             if (topo == null)
-                throw new Exception("Erro!!!");
+                return null;
             Carta? elem = topo.Elem;
             Celula? tmp = topo;
             topo = topo.Prox;
@@ -35,7 +35,14 @@ namespace Jogo
         }
         public Carta ExibirTopo()
         {
+            
+            if (topo == null)
+            {
+                return null;
+            }
             return topo.Elem;
+            
+
         }
         public Celula Topo
         {

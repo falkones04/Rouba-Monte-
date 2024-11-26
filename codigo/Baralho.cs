@@ -4,6 +4,7 @@
     {
         private int numDeBaralho;
         private Random random = new Random();
+        public int quantidade;
 
         public Baralho(int numDeBaralhos) : base()
         {
@@ -11,6 +12,7 @@
                 throw new ArgumentException("Insira um número de baralhos maior que zero");
 
             this.numDeBaralho = numDeBaralhos;
+            this.quantidade = numDeBaralho * 52;
             IniciarBaralho();
         }
         public Baralho() : base()
