@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\Rouba_Monte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\Rouba_Monte.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\Rouba_Monte.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\Rouba_Monte.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\bin\Debug\net8.0\Rouba_Monte.exe
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\bin\Debug\net8.0\Rouba_Monte.deps.json
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\bin\Debug\net8.0\Rouba_Monte.runtimeconfig.json
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\bin\Debug\net8.0\Rouba_Monte.dll
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\bin\Debug\net8.0\Rouba_Monte.pdb
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\Rouba_Monte.dll
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\refint\Rouba_Monte.dll
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\Rouba_Monte.pdb
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\Rouba_Monte.genruntimeconfig.cache
+C:\Users\Usuário\Documents\Rouba_Monte\Rouba_Monte\Rouba_Monte\obj\Debug\net8.0\ref\Rouba_Monte.dll

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|c:\\users\\usu\u00E1rio\\documents\\rouba_monte\\rouba_monte\\rouba_monte\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|solutionrelative:rouba_monte\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|c:\\users\\usu\u00E1rio\\documents\\rouba_monte\\rouba_monte\\rouba_monte\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|solutionrelative:rouba_monte\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|c:\\users\\usu\u00E1rio\\documents\\rouba_monte\\rouba_monte\\rouba_monte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|solutionrelative:rouba_monte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|c:\\users\\usu\u00E1rio\\documents\\rouba_monte\\rouba_monte\\rouba_monte\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68406296-21E0-47F3-9D73-B2F5CDEB3AA5}|Rouba_Monte\\Rouba_Monte.csproj|solutionrelative:rouba_monte\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Jogador.cs",
+              "RelativeDocumentMoniker": "Rouba_Monte\\Jogador.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Jogador.cs",
+              "RelativeToolTip": "Rouba_Monte\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:31:44.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Jogo.cs",
+              "RelativeDocumentMoniker": "Rouba_Monte\\Jogo.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Jogo.cs",
+              "RelativeToolTip": "Rouba_Monte\\Jogo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:29:23.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Class1.cs",
+              "RelativeDocumentMoniker": "Rouba_Monte\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Class1.cs",
+              "RelativeToolTip": "Rouba_Monte\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:27:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Program.cs",
+              "RelativeDocumentMoniker": "Rouba_Monte\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Program.cs",
+              "RelativeToolTip": "Rouba_Monte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:25:08.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
