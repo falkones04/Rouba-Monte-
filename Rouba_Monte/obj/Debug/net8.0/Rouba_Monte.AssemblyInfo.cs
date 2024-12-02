@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rouba_Monte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec4f398e244046fdeaae2f8a6b188e5d8b27db5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rouba_Monte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rouba_Monte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

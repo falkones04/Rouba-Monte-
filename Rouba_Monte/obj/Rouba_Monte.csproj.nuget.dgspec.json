@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuário\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte.csproj": {}
+    "C:\\Users\\Usuário\\source\\repos\\falkones04\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuário\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte.csproj": {
+    "C:\\Users\\Usuário\\source\\repos\\falkones04\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuário\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\falkones04\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj",
         "projectName": "Rouba_Monte",
-        "projectPath": "C:\\Users\\Usuário\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte.csproj",
+        "projectPath": "C:\\Users\\Usuário\\source\\repos\\falkones04\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuário\\Documents\\Rouba_Monte\\Rouba_Monte\\Rouba_Monte\\obj\\",
+        "outputPath": "C:\\Users\\Usuário\\source\\repos\\falkones04\\Rouba-Monte-\\Rouba_Monte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

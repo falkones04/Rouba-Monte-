@@ -13,13 +13,20 @@ namespace Rouba_Monte
         private int qtdDeCartasUlt;
         private List<int> ranking;
         private int pos;
+        public Stack<Carta> monte; 
 
-        public Jogador (string nome)
+        public Jogador(string nome)
         {
             this.nome = nome;
             qtdDeCartasUlt = 0;
             ranking = new List<int>(5);
             pos = 0;
+            monte = new Stack<Carta>();
         }
+        public string Nome 
+            {
+            get { return nome; }
+            set { nome = value;}
+            }
     }
 }
