@@ -31,28 +31,35 @@ namespace Rouba_Monte
             primeiro = (primeiro + 1) % array.Length;
             return resp;
         }
-        public Jogador JogadorAtual()
+        public Jogador PrimeiroJogador(string nome)
         {
             if (primeiro == ultimo)
                 throw new Exception("Erro! A fila está vazia.");
-            Jogador resp = array[atual];
+            Jogador resp = null;
+            for(int i = 0;i!=ultimo;i++)
+            {
+            if (nome==array[i].Nome)
+            {
+                resp = array[i];
+            }
+            }
             return resp;
         }
-        public void ProximoJogador()
+        public Jogador ProximoJogador()
         {
             atual = (atual + 1) % array.Length;
             if(array[atual] == null)
             {
                 atual = (atual + 1) % array.Length;
+                return array[atual];
             }
+        return array[atual];
         }
 
         public bool IsQueueIsFull()
         {
             return ((ultimo + 1) % array.Length) == primeiro;
         }
-
-        // Implementando o GetEnumerator para que o foreach funcione
         public IEnumerator<Jogador> GetEnumerator()
         {
             int index = primeiro;
@@ -62,11 +69,12 @@ namespace Rouba_Monte
                 index = (index + 1) % array.Length;
             }
         }
-
-        // Necessário para a compatibilidade com tipos não genéricos
         IEnumerator IEnumerable.GetEnumerator()
         {
             return GetEnumerator();
         }
+    
     }
+
+
 }

@@ -86,10 +86,11 @@ namespace Rouba_Monte
         public void RealizarJogada()
         {
             bool continuarJogando = false;
-            while (true)
-            {
+            Console.WriteLine("Escreva o nome do primeiro jogador");
+            string nome = Console.ReadLine();
+            Jogador jogadorAtual = jogadores.PrimeiroJogador(nome);
+            while(true){
             Carta cartaDaVez = ComprarCartaDaVez();
-            Jogador jogadorAtual = jogadores.JogadorAtual();
                 {
                     if (cartaDaVez != null)
                     {
@@ -113,7 +114,7 @@ namespace Rouba_Monte
                         }
                         areaDeDescarte.Add(cartaDaVez);
                         Console.WriteLine($"{jogadorAtual.Nome} colocou a carta {cartaDaVez} na área de descarte.");
-                        jogadores.ProximoJogador();
+                        jogadorAtual = jogadores.ProximoJogador();
 
                     }
                     else
@@ -133,7 +134,6 @@ namespace Rouba_Monte
                 Jogador j = new Jogador(Console.ReadLine());
                 jogadores.Inserir(j);
             }
-            foreach (var jogador in jogadores) { Console.WriteLine(jogador.Nome); }
         }
         private Carta ComprarCartaDaVez()
         {
@@ -238,5 +238,6 @@ namespace Rouba_Monte
             }
             return null;
         }
+
     }
 }
