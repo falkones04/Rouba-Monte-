@@ -29,3 +29,4 @@ Rouba_Monte/obj/Release/net8.0/Rouba_Monte.GlobalUsings.g.cs
 Rouba_Monte/obj/Debug/net8.0/Rouba_Monte.GeneratedMSBuildEditorConfig.editorconfig
 Rouba_Monte/obj/Debug/net8.0/Rouba_Monte.assets.cache
 .vs/slnx.sqlite
+*.bin
