@@ -13,6 +13,16 @@ namespace Rouba_Monte
         public Fila jogadores;
         public List<Carta> areaDeDescarte;
 
+        public Jogo(int numDeCartas, Fila jogadores)
+        {
+            baralho = new Stack<Carta>(numDeCartas);
+            this.jogadores = jogadores;
+            areaDeDescarte = new List<Carta>();
+            int numDeBaralhos = numDeCartas / 52;
+            int numDeExcedentes = numDeCartas % 52;
+
+            IniciarBaralho(numDeBaralhos, numDeExcedentes);
+        }
         public Jogo(int numDeCartas, int numDeJogador)
         {
             baralho = new Stack<Carta>(numDeCartas);
@@ -21,9 +31,7 @@ namespace Rouba_Monte
             int numDeBaralhos = numDeCartas / 52;
             int numDeExcedentes = numDeCartas % 52;
 
-            ColocarPlayer(numDeJogador);
             IniciarBaralho(numDeBaralhos, numDeExcedentes);
-
         }
         private void IniciarBaralho(int numBaralhos, int NumExcedentes)
         {
@@ -83,31 +91,32 @@ namespace Rouba_Monte
                 Console.WriteLine($"{carta}");
             }
         }
-        public void RealizarJogada()
+        public void RealizarPartida()
         {
             bool continuarJogando = false;
             Console.WriteLine("Escreva o nome do primeiro jogador");
             string nome = Console.ReadLine();
             Jogador jogadorAtual = jogadores.PrimeiroJogador(nome);
-            while(true){
-            Carta cartaDaVez = ComprarCartaDaVez();
+            while (true)
+            {
+                Carta cartaDaVez = ComprarCartaDaVez();
                 {
                     if (cartaDaVez != null)
                     {
                         Console.WriteLine($"{jogadorAtual.Nome} comprou a carta: {cartaDaVez}");
-                        continuarJogando = Acao1(jogadorAtual, cartaDaVez);
+                        continuarJogando = Roubar(jogadorAtual, cartaDaVez);
                         if (continuarJogando)
                         {
                             continue;
                         }
 
-                        continuarJogando = Acao2(jogadorAtual, cartaDaVez);
+                        continuarJogando = BuscarDescarte(jogadorAtual, cartaDaVez);
                         if (continuarJogando)
                         {
                             continue;
                         }
 
-                        continuarJogando = Acao3(jogadorAtual, cartaDaVez);
+                        continuarJogando = Colocar(jogadorAtual, cartaDaVez);
                         if (continuarJogando)
                         {
                             continue;
@@ -115,10 +124,12 @@ namespace Rouba_Monte
                         areaDeDescarte.Add(cartaDaVez);
                         Console.WriteLine($"{jogadorAtual.Nome} colocou a carta {cartaDaVez} na área de descarte.");
                         jogadorAtual = jogadores.ProximoJogador();
-
+                        //Log da rodada
                     }
                     else
                     {
+                        //ranking compara o tamanho dos montes e retorna eles ordenados pelo tamanho do monte, EXIBIR NO FINAL DO JOGO, faz variavel pra colocar o trem
+                        //pipipi popopo e lembra de no final joga essa variavel temp q recebe o log pra outra do arquivo que recebe esse log agr, sim é feito e é repetição
                         Console.WriteLine("Fim De Jogo");
                         break;
                     }
@@ -126,7 +137,7 @@ namespace Rouba_Monte
 
             }
         }
-        private void ColocarPlayer(int numdeJogador)
+        public Fila ColocarPlayer(int numdeJogador)
         {
             for (int i = 0; i < numdeJogador; i++)
             {
@@ -134,6 +145,7 @@ namespace Rouba_Monte
                 Jogador j = new Jogador(Console.ReadLine());
                 jogadores.Inserir(j);
             }
+            return jogadores;
         }
         private Carta ComprarCartaDaVez()
         {
@@ -145,7 +157,7 @@ namespace Rouba_Monte
             Carta cartaDaVez = baralho.Pop();
             return cartaDaVez;
         }
-        private bool Acao1(Jogador jogadorAtual, Carta cartaDaVez)
+        private bool Roubar(Jogador jogadorAtual, Carta cartaDaVez)
         {
             int maiorQtd = 0;
             Jogador jogadorParaRoubar = null;
@@ -183,7 +195,7 @@ namespace Rouba_Monte
             }
             return false;
         }
-        private bool Acao2(Jogador jogadorAtual, Carta cartaDaVez)
+        private bool BuscarDescarte(Jogador jogadorAtual, Carta cartaDaVez)
         {
             Carta cartaIgualDescarte = CartaDescarteIgual(cartaDaVez);
             if (cartaIgualDescarte != null)
@@ -199,7 +211,7 @@ namespace Rouba_Monte
                 return false;
             }
         }
-        private bool Acao3(Jogador jogadorAtual, Carta cartaDaVez)
+        private bool Colocar(Jogador jogadorAtual, Carta cartaDaVez)
         {
             if (jogadorAtual.monte.Count > 0)
             {

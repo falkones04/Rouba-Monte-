@@ -8,13 +8,11 @@ namespace Rouba_Monte
     {
         private Jogador[] array;
         private int primeiro, ultimo, atual;
-
         public Fila(int tam)
         {
             array = new Jogador[tam + 1];
             primeiro = ultimo = atual = 0;
         }
-
         public void Inserir(Jogador x)
         {
             if (((ultimo + 1) % array.Length) == primeiro)
@@ -22,43 +20,29 @@ namespace Rouba_Monte
             array[ultimo] = x;
             ultimo = (ultimo + 1) % array.Length;
         }
-
-        public Jogador Remover()
-        {
-            if (primeiro == ultimo)
-                throw new Exception("Erro! A fila está vazia.");
-            Jogador resp = array[primeiro];
-            primeiro = (primeiro + 1) % array.Length;
-            return resp;
-        }
         public Jogador PrimeiroJogador(string nome)
         {
             if (primeiro == ultimo)
                 throw new Exception("Erro! A fila está vazia.");
             Jogador resp = null;
-            for(int i = 0;i!=ultimo;i++)
+            for (int i = 0; i != ultimo; i++)
             {
-            if (nome==array[i].Nome)
-            {
-                resp = array[i];
-            }
+                if (nome == array[i].Nome)
+                {
+                    resp = array[i];
+                }
             }
             return resp;
         }
         public Jogador ProximoJogador()
         {
             atual = (atual + 1) % array.Length;
-            if(array[atual] == null)
+            if (array[atual] == null)
             {
                 atual = (atual + 1) % array.Length;
                 return array[atual];
             }
-        return array[atual];
-        }
-
-        public bool IsQueueIsFull()
-        {
-            return ((ultimo + 1) % array.Length) == primeiro;
+            return array[atual];
         }
         public IEnumerator<Jogador> GetEnumerator()
         {
@@ -73,7 +57,7 @@ namespace Rouba_Monte
         {
             return GetEnumerator();
         }
-    
+
     }
 
 

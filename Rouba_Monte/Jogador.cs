@@ -11,7 +11,7 @@ namespace Rouba_Monte
     {
         private string nome;
         private int qtdDeCartasUlt;
-        private List<int> ranking;
+        private Queue<int> ranking;
         private int pos;
         public Stack<Carta> monte; 
 
@@ -19,7 +19,7 @@ namespace Rouba_Monte
         {
             this.nome = nome;
             qtdDeCartasUlt = 0;
-            ranking = new List<int>(5);
+            ranking = new Queue<int>(5);
             pos = 0;
             monte = new Stack<Carta>();
         }
