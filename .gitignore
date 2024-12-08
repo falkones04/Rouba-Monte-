@@ -30,3 +30,5 @@ Rouba_Monte/obj/Debug/net8.0/Rouba_Monte.GeneratedMSBuildEditorConfig.editorconf
 Rouba_Monte/obj/Debug/net8.0/Rouba_Monte.assets.cache
 .vs/slnx.sqlite
 *.bin
+/Rouba_Monte/obj
+/Rouba_Monte/obj
