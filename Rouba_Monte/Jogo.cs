@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
+using System.Globalization;
+using System.IO;
 
 namespace Rouba_Monte
 {
@@ -66,7 +64,7 @@ namespace Rouba_Monte
             Console.WriteLine("Baralho Criado Com Sucesso");
         }
 
-        private void Shuffle(List<Carta> list) // Fisher-Yates Shuffle
+        private void Shuffle(List<Carta> list)
         {
             Random random = new Random();
             for (int i = list.Count - 1; i > 0; i--)
@@ -97,45 +95,78 @@ namespace Rouba_Monte
             Console.WriteLine("Escreva o nome do primeiro jogador");
             string nome = Console.ReadLine();
             Jogador jogadorAtual = jogadores.PrimeiroJogador(nome);
+            int round = 1;
+            string barra = $"============================================================";
+            RegistrarLog(barra);
             while (true)
             {
                 Carta cartaDaVez = ComprarCartaDaVez();
                 {
                     if (cartaDaVez != null)
                     {
+                        Console.WriteLine($"Round: {round}");
+                        string round1 = $"Round: {round.ToString()}";
+                        RegistrarLog(round1);
                         Console.WriteLine($"{jogadorAtual.Nome} comprou a carta: {cartaDaVez}");
+                        string frase = $"{jogadorAtual.Nome} comprou a carta: {cartaDaVez}";
+                        RegistrarLog(frase);
+
                         continuarJogando = Roubar(jogadorAtual, cartaDaVez);
                         if (continuarJogando)
                         {
+                            round++;
                             continue;
                         }
 
                         continuarJogando = BuscarDescarte(jogadorAtual, cartaDaVez);
                         if (continuarJogando)
                         {
+                            round++;
                             continue;
                         }
 
                         continuarJogando = Colocar(jogadorAtual, cartaDaVez);
                         if (continuarJogando)
                         {
+                            round++;
                             continue;
                         }
                         areaDeDescarte.Add(cartaDaVez);
                         Console.WriteLine($"{jogadorAtual.Nome} colocou a carta {cartaDaVez} na área de descarte.");
                         jogadorAtual = jogadores.ProximoJogador();
-                        //Log da rodada
+                        round++;
                     }
                     else
                     {
                         //ranking compara o tamanho dos montes e retorna eles ordenados pelo tamanho do monte, EXIBIR NO FINAL DO JOGO, faz variavel pra colocar o trem
                         //pipipi popopo e lembra de no final joga essa variavel temp q recebe o log pra outra do arquivo que recebe esse log agr, sim é feito e é repetição
                         Console.WriteLine("Fim De Jogo");
+                        RegistrarLog(barra);
                         break;
                     }
                 }
 
             }
+        }
+        private void RegistrarVencedor()
+        {
+
+        }
+        private void RegistrarLog(string x)
+        {
+            string path = @"C:/Users/Samuel/Documents/GitHub/Rouba-Monte-/Rouba_Monte/log.txt";
+            try
+            {
+                using (StreamWriter frase = new StreamWriter(path, append:true))
+                {
+                    frase.WriteLine(x + "\n");
+                }
+
+            }
+            catch
+            {
+                throw new Exception("Erro!");
+            } 
         }
         public Fila ColocarPlayer(int numdeJogador)
         {
@@ -189,6 +220,8 @@ namespace Rouba_Monte
             if (jogadorParaRoubar != null)
             {
                 Console.WriteLine($"{jogadorAtual.Nome} roubou o monte de {jogadorParaRoubar.Nome}!");
+                string frase = $"{jogadorAtual.Nome} roubou o monte de {jogadorParaRoubar.Nome}!";
+                RegistrarLog(frase);
                 PegarOMonte(jogadorAtual, jogadorParaRoubar);
                 jogadorAtual.monte.Push(cartaDaVez);
                 return true;
@@ -204,6 +237,8 @@ namespace Rouba_Monte
                 jogadorAtual.monte.Push(cartaIgualDescarte);
                 jogadorAtual.monte.Push(cartaDaVez);
                 Console.WriteLine($"{jogadorAtual.Nome} pegou a carta {cartaIgualDescarte} da area de descarte! e o Monte tem {jogadorAtual.monte.Count} cartas");
+                string frase = $"{jogadorAtual.Nome} pegou a carta {cartaIgualDescarte} da area de descarte! e o Monte tem {jogadorAtual.monte.Count} cartas";
+                RegistrarLog(frase);
                 return true;
             }
             else
@@ -219,8 +254,12 @@ namespace Rouba_Monte
                 if (topoMeuMonte != null && cartaDaVez.GetNum() == topoMeuMonte.GetNum())
                 {
                     Console.WriteLine($"{jogadorAtual.Nome} colocou a carta no topo do próprio monte!");
+                    string frase = $"{jogadorAtual.Nome} colocou a carta no topo do próprio monte!";
+                    RegistrarLog(frase);
                     jogadorAtual.monte.Push(cartaDaVez);
                     Console.WriteLine($"O jogador {jogadorAtual.Nome} agora tem {jogadorAtual.monte.Count} cartas.");
+                    frase = $"O jogador {jogadorAtual.Nome} agora tem {jogadorAtual.monte.Count} cartas.";
+                    RegistrarLog(frase);
                     return true;
                 }
             }

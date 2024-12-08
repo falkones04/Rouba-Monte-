@@ -40,8 +40,15 @@ namespace Rouba_Monte
                             mesa1.ExibirBaralho();
                             mesa1.RealizarPartida();
                             Console.WriteLine("Deseja jogar novamente? S ou N");
-                            if(Console.ReadLine()?.ToUpper().Trim() == "S"){ continue; }
-                        }
+                                if (Console.ReadLine()?.ToUpper().Trim() == "S")
+                                {
+                                    continue;
+                                }
+                                else
+                                {
+                                    break;
+                                }
+                            }
                         else{
                             Console.WriteLine("Insira o numero de cartas");
                             int numCartas = int.Parse(Console.ReadLine());
@@ -49,7 +56,14 @@ namespace Rouba_Monte
                             mesa1.ExibirBaralho();
                             mesa1.RealizarPartida();
                             Console.WriteLine("Deseja jogar novamente? S ou N");
-                            if(Console.ReadLine()?.ToUpper().Trim() == "S"){ continue; }
+                                if(Console.ReadLine()?.ToUpper().Trim() == "S")
+                                { 
+                                    continue;
+                                }
+                                else
+                                {
+                                    break;
+                                }
                             break;
                         }
                     }
