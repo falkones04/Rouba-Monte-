@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Metadata;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Rouba_Monte
+﻿namespace Rouba_Monte
 {
     internal class Jogador
     {
@@ -13,7 +6,7 @@ namespace Rouba_Monte
         private int qtdDeCartasUlt;
         private Queue<int> ranking;
         private int pos;
-        public Stack<Carta> monte; 
+        public Stack<Carta> monte;
 
         public Jogador(string nome)
         {
@@ -23,10 +16,24 @@ namespace Rouba_Monte
             pos = 0;
             monte = new Stack<Carta>();
         }
-        public string Nome 
-            {
+        public string Nome
+        {
             get { return nome; }
-            set { nome = value;}
-            }
+            set { nome = value; }
+        }
+        public int QtdDeCartasUlt
+        {
+            get { return QtdDeCartasUlt; }
+            set { QtdDeCartasUlt = value; }
+        }
+        public int Pos
+        {
+            get { return pos; }
+            set { pos = value; }
+        }
+        public Queue<int> GetRanking()
+        {
+            return ranking;
+        }
     }
 }

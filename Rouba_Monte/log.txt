@@ -1,0 +1,4752 @@
+============================================================
+
+Round: 1
+
+falk comprou a carta: 6♥
+
+Round: 2
+
+samuel comprou a carta: 9♦
+
+Round: 3
+
+falk comprou a carta: 10♠
+
+Round: 4
+
+samuel comprou a carta: 12♦
+
+Round: 5
+
+falk comprou a carta: 10♦
+
+falk pegou a carta 10♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 6
+
+falk comprou a carta: 11♣
+
+Round: 7
+
+samuel comprou a carta: 5♠
+
+Round: 8
+
+falk comprou a carta: 3♦
+
+Round: 9
+
+samuel comprou a carta: 8♠
+
+Round: 10
+
+falk comprou a carta: 6♠
+
+falk pegou a carta 6♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 11
+
+falk comprou a carta: 4♠
+
+Round: 12
+
+samuel comprou a carta: 2♦
+
+Round: 13
+
+falk comprou a carta: 9♣
+
+falk pegou a carta 9♦ da area de descarte! e o Monte tem 6 cartas
+
+Round: 14
+
+falk comprou a carta: 12♥
+
+falk pegou a carta 12♦ da area de descarte! e o Monte tem 8 cartas
+
+Round: 15
+
+falk comprou a carta: 10♥
+
+Round: 16
+
+samuel comprou a carta: 4♥
+
+samuel pegou a carta 4♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 17
+
+samuel comprou a carta: 2♥
+
+samuel pegou a carta 2♦ da area de descarte! e o Monte tem 4 cartas
+
+Round: 18
+
+samuel comprou a carta: 5♦
+
+samuel pegou a carta 5♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 19
+
+samuel comprou a carta: 8♥
+
+samuel pegou a carta 8♠ da area de descarte! e o Monte tem 8 cartas
+
+Round: 20
+
+samuel comprou a carta: 12♠
+
+samuel roubou o monte de falk!
+
+Round: 21
+
+samuel comprou a carta: 3♠
+
+samuel pegou a carta 3♦ da area de descarte! e o Monte tem 19 cartas
+
+Round: 22
+
+samuel comprou a carta: 6♣
+
+Round: 23
+
+falk comprou a carta: 11♠
+
+falk pegou a carta 11♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 24
+
+falk comprou a carta: 11♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 3 cartas.
+
+Round: 25
+
+falk comprou a carta: 9♥
+
+Round: 26
+
+samuel comprou a carta: 13♠
+
+Round: 27
+
+falk comprou a carta: 7♦
+
+Round: 28
+
+samuel comprou a carta: 11♥
+
+samuel roubou o monte de falk!
+
+Round: 29
+
+samuel comprou a carta: 7♥
+
+samuel pegou a carta 7♦ da area de descarte! e o Monte tem 25 cartas
+
+Round: 30
+
+samuel comprou a carta: 1♥
+
+Round: 31
+
+falk comprou a carta: 8♦
+
+Round: 32
+
+samuel comprou a carta: 5♣
+
+Round: 33
+
+falk comprou a carta: 2♠
+
+Round: 34
+
+samuel comprou a carta: 1♦
+
+samuel pegou a carta 1♥ da area de descarte! e o Monte tem 27 cartas
+
+Round: 35
+
+samuel comprou a carta: 6♦
+
+samuel pegou a carta 6♣ da area de descarte! e o Monte tem 29 cartas
+
+Round: 36
+
+samuel comprou a carta: 13♣
+
+samuel pegou a carta 13♠ da area de descarte! e o Monte tem 31 cartas
+
+Round: 37
+
+samuel comprou a carta: 5♥
+
+samuel pegou a carta 5♣ da area de descarte! e o Monte tem 33 cartas
+
+Round: 38
+
+samuel comprou a carta: 13♥
+
+Round: 39
+
+falk comprou a carta: 7♣
+
+Round: 40
+
+samuel comprou a carta: 2♣
+
+samuel pegou a carta 2♠ da area de descarte! e o Monte tem 35 cartas
+
+Round: 41
+
+samuel comprou a carta: 4♦
+
+Round: 42
+
+falk comprou a carta: 8♣
+
+falk pegou a carta 8♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 43
+
+falk comprou a carta: 3♣
+
+Round: 44
+
+samuel comprou a carta: 10♣
+
+samuel pegou a carta 10♥ da area de descarte! e o Monte tem 37 cartas
+
+Round: 45
+
+samuel comprou a carta: 9♠
+
+samuel pegou a carta 9♥ da area de descarte! e o Monte tem 39 cartas
+
+Round: 46
+
+samuel comprou a carta: 4♣
+
+samuel pegou a carta 4♦ da area de descarte! e o Monte tem 41 cartas
+
+Round: 47
+
+samuel comprou a carta: 12♣
+
+Round: 48
+
+falk comprou a carta: 1♠
+
+============================================================
+
+============================================================
+
+Round: 1
+
+falk comprou a carta: 2♥
+
+Round: 2
+
+falk comprou a carta: 7♦
+
+Round: 3
+
+samuel comprou a carta: 12♥
+
+Round: 4
+
+falk comprou a carta: 8♠
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 3 cartas.
+
+Round: 5
+
+falk comprou a carta: 5♣
+
+Round: 6
+
+samuel comprou a carta: 1♣
+
+Round: 7
+
+falk comprou a carta: 10♥
+
+Round: 8
+
+samuel comprou a carta: 8♣
+
+samuel roubou o monte de falk!
+
+Round: 9
+
+samuel comprou a carta: 9♠
+
+Round: 10
+
+falk comprou a carta: 4♠
+
+Round: 11
+
+samuel comprou a carta: 7♠
+
+samuel pegou a carta 7♦ da area de descarte! e o Monte tem 47 cartas
+
+Round: 12
+
+samuel comprou a carta: 13♣
+
+Round: 13
+
+falk comprou a carta: 2♦
+
+falk pegou a carta 2♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 14
+
+falk comprou a carta: 3♦
+
+Round: 15
+
+samuel comprou a carta: 10♠
+
+samuel pegou a carta 10♥ da area de descarte! e o Monte tem 49 cartas
+
+Round: 16
+
+samuel comprou a carta: 2♣
+
+samuel roubou o monte de falk!
+
+Round: 17
+
+samuel comprou a carta: 6♦
+
+Round: 18
+
+falk comprou a carta: 11♥
+
+Round: 19
+
+samuel comprou a carta: 8♥
+
+Round: 20
+
+falk comprou a carta: 11♠
+
+falk pegou a carta 11♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 21
+
+falk comprou a carta: 4♣
+
+falk pegou a carta 4♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 22
+
+falk comprou a carta: 12♣
+
+falk pegou a carta 12♥ da area de descarte! e o Monte tem 6 cartas
+
+Round: 23
+
+falk comprou a carta: 11♦
+
+Round: 24
+
+samuel comprou a carta: 5♠
+
+samuel pegou a carta 5♣ da area de descarte! e o Monte tem 54 cartas
+
+Round: 25
+
+samuel comprou a carta: 13♦
+
+samuel pegou a carta 13♣ da area de descarte! e o Monte tem 56 cartas
+
+Round: 26
+
+samuel comprou a carta: 3♣
+
+samuel pegou a carta 3♦ da area de descarte! e o Monte tem 58 cartas
+
+Round: 27
+
+samuel comprou a carta: 6♣
+
+samuel pegou a carta 6♦ da area de descarte! e o Monte tem 60 cartas
+
+Round: 28
+
+samuel comprou a carta: 13♥
+
+Round: 29
+
+falk comprou a carta: 1♠
+
+falk pegou a carta 1♣ da area de descarte! e o Monte tem 8 cartas
+
+Round: 30
+
+falk comprou a carta: 9♥
+
+falk pegou a carta 9♠ da area de descarte! e o Monte tem 10 cartas
+
+Round: 31
+
+falk comprou a carta: 7♣
+
+Round: 32
+
+samuel comprou a carta: 10♦
+
+Round: 33
+
+falk comprou a carta: 6♥
+
+falk roubou o monte de samuel!
+
+Round: 34
+
+falk comprou a carta: 2♠
+
+Round: 35
+
+samuel comprou a carta: 9♦
+
+Round: 36
+
+falk comprou a carta: 5♦
+
+Round: 37
+
+samuel comprou a carta: 3♠
+
+Round: 38
+
+falk comprou a carta: 5♥
+
+falk pegou a carta 5♦ da area de descarte! e o Monte tem 73 cartas
+
+Round: 39
+
+falk comprou a carta: 10♣
+
+falk pegou a carta 10♦ da area de descarte! e o Monte tem 75 cartas
+
+Round: 40
+
+falk comprou a carta: 7♥
+
+falk pegou a carta 7♣ da area de descarte! e o Monte tem 77 cartas
+
+Round: 41
+
+falk comprou a carta: 1♦
+
+Round: 42
+
+samuel comprou a carta: 11♣
+
+samuel pegou a carta 11♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 43
+
+samuel comprou a carta: 4♥
+
+Round: 44
+
+falk comprou a carta: 8♦
+
+falk pegou a carta 8♥ da area de descarte! e o Monte tem 79 cartas
+
+Round: 45
+
+falk comprou a carta: 13♠
+
+falk pegou a carta 13♥ da area de descarte! e o Monte tem 81 cartas
+
+Round: 46
+
+falk comprou a carta: 4♦
+
+falk pegou a carta 4♥ da area de descarte! e o Monte tem 83 cartas
+
+Round: 47
+
+falk comprou a carta: 9♣
+
+falk pegou a carta 9♦ da area de descarte! e o Monte tem 85 cartas
+
+Round: 48
+
+falk comprou a carta: 6♠
+
+Round: 49
+
+samuel comprou a carta: 12♠
+
+Round: 50
+
+falk comprou a carta: 12♦
+
+falk pegou a carta 12♠ da area de descarte! e o Monte tem 87 cartas
+
+Round: 51
+
+falk comprou a carta: 3♥
+
+falk pegou a carta 3♠ da area de descarte! e o Monte tem 89 cartas
+
+Round: 52
+
+falk comprou a carta: 1♥
+
+falk pegou a carta 1♦ da area de descarte! e o Monte tem 91 cartas
+
+============================================================
+
+============================================================
+
+Round: 1
+
+falk comprou a carta: 4♣
+
+Round: 2
+
+samuel comprou a carta: 7♥
+
+Round: 3
+
+falk comprou a carta: 1♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 92 cartas.
+
+Round: 4
+
+falk comprou a carta: 12♠
+
+Round: 5
+
+samuel comprou a carta: 9♣
+
+Round: 6
+
+falk comprou a carta: 11♦
+
+falk roubou o monte de samuel!
+
+Round: 7
+
+falk comprou a carta: 9♥
+
+falk pegou a carta 9♣ da area de descarte! e o Monte tem 97 cartas
+
+Round: 8
+
+falk comprou a carta: 7♣
+
+falk pegou a carta 7♥ da area de descarte! e o Monte tem 99 cartas
+
+Round: 9
+
+falk comprou a carta: 10♣
+
+Round: 10
+
+samuel comprou a carta: 2♦
+
+Round: 11
+
+falk comprou a carta: 10♦
+
+falk pegou a carta 10♣ da area de descarte! e o Monte tem 101 cartas
+
+Round: 12
+
+falk comprou a carta: 12♣
+
+falk pegou a carta 12♠ da area de descarte! e o Monte tem 103 cartas
+
+Round: 13
+
+falk comprou a carta: 9♠
+
+Round: 14
+
+samuel comprou a carta: 6♠
+
+Round: 15
+
+falk comprou a carta: 6♣
+
+falk pegou a carta 6♠ da area de descarte! e o Monte tem 105 cartas
+
+Round: 16
+
+falk comprou a carta: 12♥
+
+Round: 17
+
+samuel comprou a carta: 5♦
+
+Round: 18
+
+falk comprou a carta: 4♠
+
+falk pegou a carta 4♣ da area de descarte! e o Monte tem 107 cartas
+
+Round: 19
+
+falk comprou a carta: 13♦
+
+Round: 20
+
+samuel comprou a carta: 8♣
+
+Round: 21
+
+falk comprou a carta: 2♥
+
+falk pegou a carta 2♦ da area de descarte! e o Monte tem 109 cartas
+
+Round: 22
+
+falk comprou a carta: 8♠
+
+falk pegou a carta 8♣ da area de descarte! e o Monte tem 111 cartas
+
+Round: 23
+
+falk comprou a carta: 8♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 112 cartas.
+
+Round: 24
+
+falk comprou a carta: 1♥
+
+Round: 25
+
+samuel comprou a carta: 13♥
+
+samuel pegou a carta 13♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 26
+
+samuel comprou a carta: 2♣
+
+Round: 27
+
+falk comprou a carta: 3♥
+
+Round: 28
+
+samuel comprou a carta: 12♦
+
+samuel pegou a carta 12♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 29
+
+samuel comprou a carta: 4♦
+
+Round: 30
+
+falk comprou a carta: 4♥
+
+falk pegou a carta 4♦ da area de descarte! e o Monte tem 114 cartas
+
+Round: 31
+
+falk comprou a carta: 7♠
+
+Round: 32
+
+samuel comprou a carta: 5♠
+
+samuel pegou a carta 5♦ da area de descarte! e o Monte tem 6 cartas
+
+Round: 33
+
+samuel comprou a carta: 3♣
+
+samuel pegou a carta 3♥ da area de descarte! e o Monte tem 8 cartas
+
+Round: 34
+
+samuel comprou a carta: 1♠
+
+samuel pegou a carta 1♥ da area de descarte! e o Monte tem 10 cartas
+
+Round: 35
+
+samuel comprou a carta: 6♦
+
+Round: 36
+
+falk comprou a carta: 7♦
+
+falk pegou a carta 7♠ da area de descarte! e o Monte tem 116 cartas
+
+Round: 37
+
+falk comprou a carta: 9♦
+
+falk pegou a carta 9♠ da area de descarte! e o Monte tem 118 cartas
+
+Round: 38
+
+falk comprou a carta: 5♣
+
+Round: 39
+
+samuel comprou a carta: 10♠
+
+Round: 40
+
+falk comprou a carta: 3♦
+
+Round: 41
+
+samuel comprou a carta: 10♥
+
+samuel pegou a carta 10♠ da area de descarte! e o Monte tem 12 cartas
+
+Round: 42
+
+samuel comprou a carta: 2♠
+
+samuel pegou a carta 2♣ da area de descarte! e o Monte tem 14 cartas
+
+Round: 43
+
+samuel comprou a carta: 13♣
+
+Round: 44
+
+falk comprou a carta: 6♥
+
+falk pegou a carta 6♦ da area de descarte! e o Monte tem 120 cartas
+
+Round: 45
+
+falk comprou a carta: 3♠
+
+falk pegou a carta 3♦ da area de descarte! e o Monte tem 122 cartas
+
+Round: 46
+
+falk comprou a carta: 11♣
+
+Round: 47
+
+samuel comprou a carta: 8♥
+
+Round: 48
+
+falk comprou a carta: 1♣
+
+Round: 49
+
+samuel comprou a carta: 13♠
+
+samuel pegou a carta 13♣ da area de descarte! e o Monte tem 16 cartas
+
+Round: 50
+
+samuel comprou a carta: 11♠
+
+samuel pegou a carta 11♣ da area de descarte! e o Monte tem 18 cartas
+
+Round: 51
+
+samuel comprou a carta: 11♥
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 19 cartas.
+
+Round: 52
+
+samuel comprou a carta: 5♥
+
+samuel pegou a carta 5♣ da area de descarte! e o Monte tem 21 cartas
+
+============================================================
+
+============================================================
+
+Round: 1
+
+samuel comprou a carta: 10♣
+
+Round: 2
+
+samuel comprou a carta: 11♠
+
+Round: 3
+
+falk comprou a carta: 12♥
+
+Round: 4
+
+samuel comprou a carta: 9♦
+
+Round: 5
+
+falk comprou a carta: 10♠
+
+falk pegou a carta 10♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 6
+
+falk comprou a carta: 13♠
+
+Round: 7
+
+samuel comprou a carta: 7♣
+
+Round: 8
+
+falk comprou a carta: 8♥
+
+Round: 9
+
+samuel comprou a carta: 6♠
+
+Round: 10
+
+falk comprou a carta: 7♦
+
+falk pegou a carta 7♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 11
+
+falk comprou a carta: 4♠
+
+Round: 12
+
+samuel comprou a carta: 9♠
+
+samuel pegou a carta 9♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 13
+
+samuel comprou a carta: 11♣
+
+samuel pegou a carta 11♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 14
+
+samuel comprou a carta: 6♦
+
+samuel pegou a carta 6♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 15
+
+samuel comprou a carta: 3♠
+
+Round: 16
+
+falk comprou a carta: 12♠
+
+falk pegou a carta 12♥ da area de descarte! e o Monte tem 6 cartas
+
+Round: 17
+
+falk comprou a carta: 8♦
+
+falk pegou a carta 8♥ da area de descarte! e o Monte tem 8 cartas
+
+Round: 18
+
+falk comprou a carta: 5♣
+
+Round: 19
+
+samuel comprou a carta: 12♦
+
+Round: 20
+
+falk comprou a carta: 3♣
+
+falk pegou a carta 3♠ da area de descarte! e o Monte tem 10 cartas
+
+Round: 21
+
+falk comprou a carta: 11♥
+
+Round: 22
+
+samuel comprou a carta: 4♦
+
+samuel pegou a carta 4♠ da area de descarte! e o Monte tem 8 cartas
+
+Round: 23
+
+samuel comprou a carta: 2♦
+
+Round: 24
+
+falk comprou a carta: 11♦
+
+falk pegou a carta 11♥ da area de descarte! e o Monte tem 12 cartas
+
+Round: 25
+
+falk comprou a carta: 2♣
+
+falk pegou a carta 2♦ da area de descarte! e o Monte tem 14 cartas
+
+Round: 26
+
+falk comprou a carta: 5♠
+
+falk pegou a carta 5♣ da area de descarte! e o Monte tem 16 cartas
+
+Round: 27
+
+falk comprou a carta: 6♥
+
+Round: 28
+
+samuel comprou a carta: 9♥
+
+Round: 29
+
+falk comprou a carta: 2♠
+
+Round: 30
+
+samuel comprou a carta: 5♦
+
+samuel roubou o monte de falk!
+
+Round: 31
+
+samuel comprou a carta: 8♠
+
+Round: 32
+
+falk comprou a carta: 13♦
+
+falk pegou a carta 13♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 33
+
+falk comprou a carta: 13♥
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 3 cartas.
+
+Round: 34
+
+falk comprou a carta: 10♥
+
+Round: 35
+
+samuel comprou a carta: 3♥
+
+Round: 36
+
+falk comprou a carta: 7♥
+
+Round: 37
+
+samuel comprou a carta: 12♣
+
+samuel pegou a carta 12♦ da area de descarte! e o Monte tem 27 cartas
+
+Round: 38
+
+samuel comprou a carta: 8♣
+
+samuel pegou a carta 8♠ da area de descarte! e o Monte tem 29 cartas
+
+Round: 39
+
+samuel comprou a carta: 4♣
+
+Round: 40
+
+falk comprou a carta: 10♦
+
+falk pegou a carta 10♥ da area de descarte! e o Monte tem 5 cartas
+
+Round: 41
+
+falk comprou a carta: 13♣
+
+Round: 42
+
+samuel comprou a carta: 1♠
+
+Round: 43
+
+falk comprou a carta: 1♥
+
+falk pegou a carta 1♠ da area de descarte! e o Monte tem 7 cartas
+
+Round: 44
+
+falk comprou a carta: 3♦
+
+falk pegou a carta 3♥ da area de descarte! e o Monte tem 9 cartas
+
+Round: 45
+
+falk comprou a carta: 7♠
+
+falk pegou a carta 7♥ da area de descarte! e o Monte tem 11 cartas
+
+Round: 46
+
+falk comprou a carta: 1♣
+
+Round: 47
+
+samuel comprou a carta: 1♦
+
+samuel pegou a carta 1♣ da area de descarte! e o Monte tem 31 cartas
+
+Round: 48
+
+samuel comprou a carta: 6♣
+
+samuel pegou a carta 6♥ da area de descarte! e o Monte tem 33 cartas
+
+============================================================
+
+============================================================
+
+Round: 1
+
+falk comprou a carta: 2♠
+
+============================================================
+
+Round: 1
+
+f comprou a carta: 2♥
+
+Round: 2
+
+f comprou a carta: 10♥
+
+Round: 3
+
+s comprou a carta: 7♠
+
+Round: 4
+
+f comprou a carta: 6♥
+
+Round: 5
+
+s comprou a carta: 4♥
+
+Round: 6
+
+f comprou a carta: 7♥
+
+f pegou a carta 7♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 7
+
+f comprou a carta: 4♠
+
+f pegou a carta 4♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 8
+
+f comprou a carta: 13♣
+
+Round: 9
+
+s comprou a carta: 1♥
+
+Round: 10
+
+f comprou a carta: 8♠
+
+Round: 11
+
+s comprou a carta: 11♦
+
+Round: 12
+
+f comprou a carta: 11♣
+
+f pegou a carta 11♦ da area de descarte! e o Monte tem 6 cartas
+
+Round: 13
+
+f comprou a carta: 5♠
+
+Round: 14
+
+s comprou a carta: 1♠
+
+s pegou a carta 1♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 15
+
+s comprou a carta: 5♦
+
+s pegou a carta 5♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 16
+
+s comprou a carta: 8♣
+
+s pegou a carta 8♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 17
+
+s comprou a carta: 13♦
+
+s pegou a carta 13♣ da area de descarte! e o Monte tem 8 cartas
+
+Round: 18
+
+s comprou a carta: 11♠
+
+s roubou o monte de f!
+
+Round: 19
+
+s comprou a carta: 1♣
+
+Round: 20
+
+f comprou a carta: 13♥
+
+Round: 21
+
+s comprou a carta: 12♦
+
+Round: 22
+
+f comprou a carta: 12♥
+
+f pegou a carta 12♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 23
+
+f comprou a carta: 8♦
+
+Round: 24
+
+s comprou a carta: 5♥
+
+Round: 25
+
+f comprou a carta: 12♠
+
+f colocou a carta no topo do próprio monte!
+
+O jogador f agora tem 3 cartas.
+
+Round: 26
+
+f comprou a carta: 11♥
+
+f roubou o monte de s!
+
+Round: 27
+
+f comprou a carta: 3♥
+
+Round: 28
+
+s comprou a carta: 9♠
+
+Round: 29
+
+f comprou a carta: 9♥
+
+f pegou a carta 9♠ da area de descarte! e o Monte tem 21 cartas
+
+Round: 30
+
+f comprou a carta: 6♠
+
+f pegou a carta 6♥ da area de descarte! e o Monte tem 23 cartas
+
+Round: 31
+
+f comprou a carta: 4♣
+
+Round: 32
+
+s comprou a carta: 3♠
+
+s pegou a carta 3♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 33
+
+s comprou a carta: 12♣
+
+Round: 34
+
+f comprou a carta: 3♣
+
+f roubou o monte de s!
+
+Round: 35
+
+f comprou a carta: 8♥
+
+f pegou a carta 8♦ da area de descarte! e o Monte tem 28 cartas
+
+Round: 36
+
+f comprou a carta: 2♣
+
+f pegou a carta 2♥ da area de descarte! e o Monte tem 30 cartas
+
+Round: 37
+
+f comprou a carta: 6♦
+
+Round: 38
+
+s comprou a carta: 5♣
+
+s pegou a carta 5♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 39
+
+s comprou a carta: 7♣
+
+Round: 40
+
+f comprou a carta: 6♣
+
+f pegou a carta 6♦ da area de descarte! e o Monte tem 32 cartas
+
+Round: 41
+
+f comprou a carta: 10♠
+
+f pegou a carta 10♥ da area de descarte! e o Monte tem 34 cartas
+
+Round: 42
+
+f comprou a carta: 10♦
+
+f colocou a carta no topo do próprio monte!
+
+O jogador f agora tem 35 cartas.
+
+Round: 43
+
+f comprou a carta: 9♦
+
+Round: 44
+
+s comprou a carta: 13♠
+
+s pegou a carta 13♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 45
+
+s comprou a carta: 7♦
+
+s pegou a carta 7♣ da area de descarte! e o Monte tem 6 cartas
+
+Round: 46
+
+s comprou a carta: 1♦
+
+s pegou a carta 1♣ da area de descarte! e o Monte tem 8 cartas
+
+Round: 47
+
+s comprou a carta: 2♠
+
+Round: 48
+
+f comprou a carta: 3♦
+
+============================================================
+
+============================================================
+
+Round: 1
+
+s comprou a carta: 12♣
+
+============================================================
+
+Round: 1
+
+falk comprou a carta: 7♣
+
+Round: 2
+
+falk comprou a carta: 13♠
+
+Round: 3
+
+samuel comprou a carta: 8♠
+
+Round: 4
+
+falk comprou a carta: 7♦
+
+falk pegou a carta 7♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 5
+
+falk comprou a carta: 4♦
+
+Round: 6
+
+samuel comprou a carta: 9♣
+
+Round: 7
+
+falk comprou a carta: 6♣
+
+Round: 8
+
+samuel comprou a carta: 12♣
+
+Round: 9
+
+falk comprou a carta: 13♥
+
+falk pegou a carta 13♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 10
+
+falk comprou a carta: 11♦
+
+Round: 11
+
+samuel comprou a carta: 5♥
+
+Round: 12
+
+falk comprou a carta: 10♣
+
+Round: 13
+
+samuel comprou a carta: 4♥
+
+samuel pegou a carta 4♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 14
+
+samuel comprou a carta: 10♠
+
+samuel pegou a carta 10♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 15
+
+samuel comprou a carta: 12♠
+
+samuel pegou a carta 12♣ da area de descarte! e o Monte tem 6 cartas
+
+Round: 16
+
+samuel comprou a carta: 8♦
+
+samuel pegou a carta 8♠ da area de descarte! e o Monte tem 8 cartas
+
+Round: 17
+
+samuel comprou a carta: 6♠
+
+samuel pegou a carta 6♣ da area de descarte! e o Monte tem 10 cartas
+
+Round: 18
+
+samuel comprou a carta: 1♠
+
+Round: 19
+
+falk comprou a carta: 13♣
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 5 cartas.
+
+Round: 20
+
+falk comprou a carta: 2♠
+
+Round: 21
+
+samuel comprou a carta: 7♠
+
+Round: 22
+
+falk comprou a carta: 6♥
+
+falk roubou o monte de samuel!
+
+Round: 23
+
+falk comprou a carta: 6♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 17 cartas.
+
+Round: 24
+
+falk comprou a carta: 10♥
+
+Round: 25
+
+samuel comprou a carta: 11♠
+
+samuel pegou a carta 11♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 26
+
+samuel comprou a carta: 4♣
+
+Round: 27
+
+falk comprou a carta: 8♥
+
+Round: 28
+
+samuel comprou a carta: 2♥
+
+samuel pegou a carta 2♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 29
+
+samuel comprou a carta: 13♦
+
+Round: 30
+
+falk comprou a carta: 1♥
+
+falk pegou a carta 1♠ da area de descarte! e o Monte tem 19 cartas
+
+Round: 31
+
+falk comprou a carta: 12♦
+
+Round: 32
+
+samuel comprou a carta: 12♥
+
+samuel pegou a carta 12♦ da area de descarte! e o Monte tem 6 cartas
+
+Round: 33
+
+samuel comprou a carta: 3♠
+
+Round: 34
+
+falk comprou a carta: 3♦
+
+falk pegou a carta 3♠ da area de descarte! e o Monte tem 21 cartas
+
+Round: 35
+
+falk comprou a carta: 7♥
+
+falk pegou a carta 7♠ da area de descarte! e o Monte tem 23 cartas
+
+Round: 36
+
+falk comprou a carta: 1♦
+
+Round: 37
+
+samuel comprou a carta: 5♠
+
+samuel pegou a carta 5♥ da area de descarte! e o Monte tem 8 cartas
+
+Round: 38
+
+samuel comprou a carta: 11♣
+
+Round: 39
+
+falk comprou a carta: 4♠
+
+falk pegou a carta 4♣ da area de descarte! e o Monte tem 25 cartas
+
+Round: 40
+
+falk comprou a carta: 3♥
+
+Round: 41
+
+samuel comprou a carta: 2♣
+
+Round: 42
+
+falk comprou a carta: 9♥
+
+falk pegou a carta 9♣ da area de descarte! e o Monte tem 27 cartas
+
+Round: 43
+
+falk comprou a carta: 1♣
+
+falk pegou a carta 1♦ da area de descarte! e o Monte tem 29 cartas
+
+Round: 44
+
+falk comprou a carta: 5♦
+
+falk roubou o monte de samuel!
+
+Round: 45
+
+falk comprou a carta: 10♦
+
+falk pegou a carta 10♥ da area de descarte! e o Monte tem 40 cartas
+
+Round: 46
+
+falk comprou a carta: 5♣
+
+Round: 47
+
+samuel comprou a carta: 2♦
+
+samuel pegou a carta 2♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 48
+
+samuel comprou a carta: 9♠
+
+Round: 49
+
+falk comprou a carta: 8♣
+
+falk pegou a carta 8♥ da area de descarte! e o Monte tem 42 cartas
+
+Round: 50
+
+falk comprou a carta: 3♣
+
+falk pegou a carta 3♥ da area de descarte! e o Monte tem 44 cartas
+
+Round: 51
+
+falk comprou a carta: 11♥
+
+falk pegou a carta 11♣ da area de descarte! e o Monte tem 46 cartas
+
+Round: 52
+
+falk comprou a carta: 9♦
+
+falk pegou a carta 9♠ da area de descarte! e o Monte tem 48 cartas
+
+Round: 53
+
+falk comprou a carta: 12♠
+
+Round: 54
+
+samuel comprou a carta: 1♣
+
+Round: 55
+
+falk comprou a carta: 4♣
+
+Round: 56
+
+samuel comprou a carta: 1♠
+
+samuel pegou a carta 1♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 57
+
+samuel comprou a carta: 12♦
+
+samuel pegou a carta 12♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 58
+
+samuel comprou a carta: 2♠
+
+Round: 59
+
+falk comprou a carta: 11♠
+
+Round: 60
+
+samuel comprou a carta: 12♥
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 7 cartas.
+
+Round: 61
+
+samuel comprou a carta: 3♥
+
+Round: 62
+
+falk comprou a carta: 13♥
+
+falk pegou a carta 13♦ da area de descarte! e o Monte tem 50 cartas
+
+Round: 63
+
+falk comprou a carta: 2♥
+
+falk pegou a carta 2♠ da area de descarte! e o Monte tem 52 cartas
+
+Round: 64
+
+falk comprou a carta: 8♥
+
+Round: 65
+
+samuel comprou a carta: 8♠
+
+samuel pegou a carta 8♥ da area de descarte! e o Monte tem 9 cartas
+
+Round: 66
+
+samuel comprou a carta: 1♦
+
+Round: 67
+
+falk comprou a carta: 4♠
+
+falk pegou a carta 4♣ da area de descarte! e o Monte tem 54 cartas
+
+Round: 68
+
+falk comprou a carta: 10♠
+
+Round: 69
+
+samuel comprou a carta: 4♥
+
+samuel roubou o monte de falk!
+
+Round: 70
+
+samuel comprou a carta: 12♣
+
+Round: 71
+
+falk comprou a carta: 6♥
+
+Round: 72
+
+samuel comprou a carta: 5♠
+
+samuel pegou a carta 5♣ da area de descarte! e o Monte tem 66 cartas
+
+Round: 73
+
+samuel comprou a carta: 8♣
+
+Round: 74
+
+falk comprou a carta: 9♦
+
+Round: 75
+
+samuel comprou a carta: 5♥
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 67 cartas.
+
+Round: 76
+
+samuel comprou a carta: 2♣
+
+Round: 77
+
+falk comprou a carta: 9♣
+
+falk pegou a carta 9♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 78
+
+falk comprou a carta: 10♣
+
+falk pegou a carta 10♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 79
+
+falk comprou a carta: 11♦
+
+falk pegou a carta 11♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 80
+
+falk comprou a carta: 11♣
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 7 cartas.
+
+Round: 81
+
+falk comprou a carta: 11♥
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 8 cartas.
+
+Round: 82
+
+falk comprou a carta: 1♥
+
+falk pegou a carta 1♦ da area de descarte! e o Monte tem 10 cartas
+
+Round: 83
+
+falk comprou a carta: 7♥
+
+Round: 84
+
+samuel comprou a carta: 6♣
+
+samuel pegou a carta 6♥ da area de descarte! e o Monte tem 69 cartas
+
+Round: 85
+
+samuel comprou a carta: 9♥
+
+Round: 86
+
+falk comprou a carta: 5♦
+
+Round: 87
+
+samuel comprou a carta: 3♦
+
+samuel pegou a carta 3♥ da area de descarte! e o Monte tem 71 cartas
+
+Round: 88
+
+samuel comprou a carta: 6♠
+
+Round: 89
+
+falk comprou a carta: 7♦
+
+falk pegou a carta 7♥ da area de descarte! e o Monte tem 12 cartas
+
+Round: 90
+
+falk comprou a carta: 13♣
+
+Round: 91
+
+samuel comprou a carta: 7♠
+
+samuel roubou o monte de falk!
+
+Round: 92
+
+samuel comprou a carta: 8♦
+
+samuel pegou a carta 8♣ da area de descarte! e o Monte tem 86 cartas
+
+Round: 93
+
+samuel comprou a carta: 4♦
+
+Round: 94
+
+falk comprou a carta: 3♠
+
+Round: 95
+
+samuel comprou a carta: 13♦
+
+samuel pegou a carta 13♣ da area de descarte! e o Monte tem 88 cartas
+
+Round: 96
+
+samuel comprou a carta: 10♦
+
+Round: 97
+
+falk comprou a carta: 7♣
+
+Round: 98
+
+samuel comprou a carta: 3♣
+
+samuel pegou a carta 3♠ da area de descarte! e o Monte tem 90 cartas
+
+Round: 99
+
+samuel comprou a carta: 6♦
+
+samuel pegou a carta 6♠ da area de descarte! e o Monte tem 92 cartas
+
+Round: 100
+
+samuel comprou a carta: 10♥
+
+samuel pegou a carta 10♦ da area de descarte! e o Monte tem 94 cartas
+
+Round: 101
+
+samuel comprou a carta: 5♣
+
+samuel pegou a carta 5♦ da area de descarte! e o Monte tem 96 cartas
+
+Round: 102
+
+samuel comprou a carta: 2♦
+
+samuel pegou a carta 2♣ da area de descarte! e o Monte tem 98 cartas
+
+Round: 103
+
+samuel comprou a carta: 13♠
+
+Round: 104
+
+falk comprou a carta: 9♠
+
+falk pegou a carta 9♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 105
+
+falk comprou a carta: 2♣
+
+falk roubou o monte de samuel!
+
+Round: 106
+
+falk comprou a carta: 6♠
+
+Round: 107
+
+samuel comprou a carta: 7♥
+
+samuel pegou a carta 7♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 108
+
+samuel comprou a carta: 4♥
+
+samuel pegou a carta 4♦ da area de descarte! e o Monte tem 4 cartas
+
+Round: 109
+
+samuel comprou a carta: 2♥
+
+samuel roubou o monte de falk!
+
+Round: 110
+
+samuel comprou a carta: 2♠
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 107 cartas.
+
+Round: 111
+
+samuel comprou a carta: 7♠
+
+Round: 112
+
+falk comprou a carta: 1♦
+
+Round: 113
+
+samuel comprou a carta: 7♦
+
+samuel pegou a carta 7♠ da area de descarte! e o Monte tem 109 cartas
+
+Round: 114
+
+samuel comprou a carta: 9♠
+
+Round: 115
+
+falk comprou a carta: 12♠
+
+falk pegou a carta 12♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 116
+
+falk comprou a carta: 6♥
+
+falk pegou a carta 6♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 117
+
+falk comprou a carta: 10♠
+
+Round: 118
+
+samuel comprou a carta: 5♦
+
+Round: 119
+
+falk comprou a carta: 8♣
+
+Round: 120
+
+samuel comprou a carta: 1♥
+
+samuel pegou a carta 1♦ da area de descarte! e o Monte tem 111 cartas
+
+Round: 121
+
+samuel comprou a carta: 6♣
+
+samuel roubou o monte de falk!
+
+Round: 122
+
+samuel comprou a carta: 13♥
+
+samuel pegou a carta 13♠ da area de descarte! e o Monte tem 118 cartas
+
+Round: 123
+
+samuel comprou a carta: 7♣
+
+Round: 124
+
+falk comprou a carta: 11♦
+
+Round: 125
+
+samuel comprou a carta: 8♥
+
+samuel pegou a carta 8♣ da area de descarte! e o Monte tem 120 cartas
+
+Round: 126
+
+samuel comprou a carta: 2♦
+
+Round: 127
+
+falk comprou a carta: 9♥
+
+falk pegou a carta 9♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 128
+
+falk comprou a carta: 13♠
+
+Round: 129
+
+samuel comprou a carta: 4♦
+
+Round: 130
+
+falk comprou a carta: 8♦
+
+falk roubou o monte de samuel!
+
+Round: 131
+
+falk comprou a carta: 3♠
+
+Round: 132
+
+samuel comprou a carta: 11♥
+
+samuel pegou a carta 11♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 133
+
+samuel comprou a carta: 4♠
+
+samuel pegou a carta 4♦ da area de descarte! e o Monte tem 4 cartas
+
+Round: 134
+
+samuel comprou a carta: 9♣
+
+Round: 135
+
+falk comprou a carta: 6♦
+
+Round: 136
+
+samuel comprou a carta: 11♣
+
+Round: 137
+
+falk comprou a carta: 4♣
+
+falk roubou o monte de samuel!
+
+Round: 138
+
+falk comprou a carta: 3♥
+
+falk pegou a carta 3♠ da area de descarte! e o Monte tem 130 cartas
+
+Round: 139
+
+falk comprou a carta: 3♣
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 131 cartas.
+
+Round: 140
+
+falk comprou a carta: 8♠
+
+Round: 141
+
+samuel comprou a carta: 11♠
+
+samuel pegou a carta 11♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 142
+
+samuel comprou a carta: 12♥
+
+Round: 143
+
+falk comprou a carta: 13♣
+
+falk pegou a carta 13♠ da area de descarte! e o Monte tem 133 cartas
+
+Round: 144
+
+falk comprou a carta: 1♣
+
+Round: 145
+
+samuel comprou a carta: 5♥
+
+samuel pegou a carta 5♦ da area de descarte! e o Monte tem 4 cartas
+
+Round: 146
+
+samuel comprou a carta: 5♠
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 5 cartas.
+
+Round: 147
+
+samuel comprou a carta: 5♣
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 6 cartas.
+
+Round: 148
+
+samuel comprou a carta: 3♦
+
+Round: 149
+
+falk comprou a carta: 12♦
+
+falk pegou a carta 12♥ da area de descarte! e o Monte tem 135 cartas
+
+Round: 150
+
+falk comprou a carta: 10♣
+
+falk pegou a carta 10♠ da area de descarte! e o Monte tem 137 cartas
+
+Round: 151
+
+falk comprou a carta: 10♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 138 cartas.
+
+Round: 152
+
+falk comprou a carta: 13♦
+
+Round: 153
+
+samuel comprou a carta: 9♦
+
+samuel pegou a carta 9♣ da area de descarte! e o Monte tem 8 cartas
+
+Round: 154
+
+samuel comprou a carta: 1♠
+
+samuel pegou a carta 1♣ da area de descarte! e o Monte tem 10 cartas
+
+Round: 155
+
+samuel comprou a carta: 10♥
+
+samuel roubou o monte de falk!
+
+Round: 156
+
+samuel comprou a carta: 12♣
+
+Round: 157
+
+falk comprou a carta: 13♦
+
+falk pegou a carta 13♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 158
+
+falk comprou a carta: 4♥
+
+Round: 159
+
+samuel comprou a carta: 3♥
+
+samuel pegou a carta 3♦ da area de descarte! e o Monte tem 151 cartas
+
+Round: 160
+
+samuel comprou a carta: 2♣
+
+samuel pegou a carta 2♦ da area de descarte! e o Monte tem 153 cartas
+
+Round: 161
+
+samuel comprou a carta: 9♦
+
+Round: 162
+
+falk comprou a carta: 4♣
+
+falk pegou a carta 4♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 163
+
+falk comprou a carta: 7♦
+
+falk pegou a carta 7♣ da area de descarte! e o Monte tem 6 cartas
+
+Round: 164
+
+falk comprou a carta: 2♠
+
+falk roubou o monte de samuel!
+
+Round: 165
+
+falk comprou a carta: 1♦
+
+Round: 166
+
+samuel comprou a carta: 4♠
+
+Round: 167
+
+falk comprou a carta: 12♥
+
+falk pegou a carta 12♣ da area de descarte! e o Monte tem 162 cartas
+
+Round: 168
+
+falk comprou a carta: 11♣
+
+Round: 169
+
+samuel comprou a carta: 1♠
+
+samuel pegou a carta 1♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 170
+
+samuel comprou a carta: 3♣
+
+Round: 171
+
+falk comprou a carta: 5♠
+
+Round: 172
+
+samuel comprou a carta: 9♥
+
+samuel pegou a carta 9♦ da area de descarte! e o Monte tem 4 cartas
+
+Round: 173
+
+samuel comprou a carta: 1♣
+
+Round: 174
+
+falk comprou a carta: 4♦
+
+falk pegou a carta 4♠ da area de descarte! e o Monte tem 164 cartas
+
+Round: 175
+
+falk comprou a carta: 6♣
+
+falk pegou a carta 6♦ da area de descarte! e o Monte tem 166 cartas
+
+Round: 176
+
+falk comprou a carta: 3♠
+
+falk pegou a carta 3♣ da area de descarte! e o Monte tem 168 cartas
+
+Round: 177
+
+falk comprou a carta: 5♦
+
+falk pegou a carta 5♠ da area de descarte! e o Monte tem 170 cartas
+
+Round: 178
+
+falk comprou a carta: 11♥
+
+falk pegou a carta 11♣ da area de descarte! e o Monte tem 172 cartas
+
+Round: 179
+
+falk comprou a carta: 5♥
+
+Round: 180
+
+samuel comprou a carta: 1♥
+
+samuel pegou a carta 1♣ da area de descarte! e o Monte tem 6 cartas
+
+Round: 181
+
+samuel comprou a carta: 12♠
+
+Round: 182
+
+falk comprou a carta: 13♣
+
+Round: 183
+
+samuel comprou a carta: 6♦
+
+Round: 184
+
+falk comprou a carta: 10♠
+
+Round: 185
+
+samuel comprou a carta: 2♦
+
+Round: 186
+
+falk comprou a carta: 8♣
+
+falk pegou a carta 8♠ da area de descarte! e o Monte tem 174 cartas
+
+Round: 187
+
+falk comprou a carta: 10♦
+
+falk pegou a carta 10♠ da area de descarte! e o Monte tem 176 cartas
+
+Round: 188
+
+falk comprou a carta: 10♥
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 177 cartas.
+
+Round: 189
+
+falk comprou a carta: 10♣
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 178 cartas.
+
+Round: 190
+
+falk comprou a carta: 5♣
+
+falk pegou a carta 5♥ da area de descarte! e o Monte tem 180 cartas
+
+Round: 191
+
+falk comprou a carta: 13♠
+
+falk pegou a carta 13♣ da area de descarte! e o Monte tem 182 cartas
+
+Round: 192
+
+falk comprou a carta: 12♦
+
+falk pegou a carta 12♠ da area de descarte! e o Monte tem 184 cartas
+
+Round: 193
+
+falk comprou a carta: 11♠
+
+Round: 194
+
+samuel comprou a carta: 8♠
+
+Round: 195
+
+falk comprou a carta: 7♠
+
+Round: 196
+
+samuel comprou a carta: 11♦
+
+samuel pegou a carta 11♠ da area de descarte! e o Monte tem 8 cartas
+
+Round: 197
+
+samuel comprou a carta: 2♥
+
+samuel pegou a carta 2♦ da area de descarte! e o Monte tem 10 cartas
+
+Round: 198
+
+samuel comprou a carta: 9♠
+
+Round: 199
+
+falk comprou a carta: 6♠
+
+falk pegou a carta 6♦ da area de descarte! e o Monte tem 186 cartas
+
+Round: 200
+
+falk comprou a carta: 12♣
+
+Round: 201
+
+samuel comprou a carta: 7♥
+
+samuel pegou a carta 7♠ da area de descarte! e o Monte tem 12 cartas
+
+Round: 202
+
+samuel comprou a carta: 8♥
+
+samuel pegou a carta 8♠ da area de descarte! e o Monte tem 14 cartas
+
+Round: 203
+
+samuel comprou a carta: 8♦
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 15 cartas.
+
+Round: 204
+
+samuel comprou a carta: 9♣
+
+samuel pegou a carta 9♠ da area de descarte! e o Monte tem 17 cartas
+
+Round: 205
+
+samuel comprou a carta: 6♥
+
+samuel roubou o monte de falk!
+
+Round: 206
+
+samuel comprou a carta: 7♣
+
+Round: 207
+
+falk comprou a carta: 13♥
+
+Round: 208
+
+samuel comprou a carta: 3♦
+
+Round: 209
+
+falk comprou a carta: 1♥
+
+Round: 210
+
+samuel comprou a carta: 12♠
+
+samuel pegou a carta 12♣ da area de descarte! e o Monte tem 206 cartas
+
+Round: 211
+
+samuel comprou a carta: 10♠
+
+Round: 212
+
+falk comprou a carta: 9♦
+
+Round: 213
+
+samuel comprou a carta: 3♥
+
+samuel pegou a carta 3♦ da area de descarte! e o Monte tem 208 cartas
+
+Round: 214
+
+samuel comprou a carta: 7♠
+
+samuel pegou a carta 7♣ da area de descarte! e o Monte tem 210 cartas
+
+Round: 215
+
+samuel comprou a carta: 7♣
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 211 cartas.
+
+Round: 216
+
+samuel comprou a carta: 3♣
+
+Round: 217
+
+falk comprou a carta: 7♦
+
+falk roubou o monte de samuel!
+
+Round: 218
+
+falk comprou a carta: 9♠
+
+falk pegou a carta 9♦ da area de descarte! e o Monte tem 214 cartas
+
+Round: 219
+
+falk comprou a carta: 2♦
+
+Round: 220
+
+samuel comprou a carta: 10♦
+
+samuel pegou a carta 10♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 221
+
+samuel comprou a carta: 6♥
+
+Round: 222
+
+falk comprou a carta: 11♣
+
+Round: 223
+
+samuel comprou a carta: 1♦
+
+samuel pegou a carta 1♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 224
+
+samuel comprou a carta: 11♦
+
+samuel pegou a carta 11♣ da area de descarte! e o Monte tem 6 cartas
+
+Round: 225
+
+samuel comprou a carta: 12♣
+
+Round: 226
+
+falk comprou a carta: 8♣
+
+Round: 227
+
+samuel comprou a carta: 4♣
+
+Round: 228
+
+falk comprou a carta: 13♣
+
+falk pegou a carta 13♥ da area de descarte! e o Monte tem 216 cartas
+
+Round: 229
+
+falk comprou a carta: 13♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 217 cartas.
+
+Round: 230
+
+falk comprou a carta: 5♣
+
+Round: 231
+
+samuel comprou a carta: 5♠
+
+samuel pegou a carta 5♣ da area de descarte! e o Monte tem 8 cartas
+
+Round: 232
+
+samuel comprou a carta: 9♣
+
+Round: 233
+
+falk comprou a carta: 13♥
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 218 cartas.
+
+Round: 234
+
+falk comprou a carta: 10♣
+
+Round: 235
+
+samuel comprou a carta: 1♠
+
+Round: 236
+
+falk comprou a carta: 6♣
+
+falk pegou a carta 6♥ da area de descarte! e o Monte tem 220 cartas
+
+Round: 237
+
+falk comprou a carta: 6♠
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 221 cartas.
+
+Round: 238
+
+falk comprou a carta: 13♠
+
+Round: 239
+
+samuel comprou a carta: 8♠
+
+samuel pegou a carta 8♣ da area de descarte! e o Monte tem 10 cartas
+
+Round: 240
+
+samuel comprou a carta: 11♥
+
+Round: 241
+
+falk comprou a carta: 4♠
+
+falk pegou a carta 4♣ da area de descarte! e o Monte tem 223 cartas
+
+Round: 242
+
+falk comprou a carta: 5♥
+
+Round: 243
+
+samuel comprou a carta: 2♣
+
+samuel pegou a carta 2♦ da area de descarte! e o Monte tem 12 cartas
+
+Round: 244
+
+samuel comprou a carta: 2♥
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 13 cartas.
+
+Round: 245
+
+samuel comprou a carta: 12♦
+
+samuel pegou a carta 12♣ da area de descarte! e o Monte tem 15 cartas
+
+Round: 246
+
+samuel comprou a carta: 12♥
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 16 cartas.
+
+Round: 247
+
+samuel comprou a carta: 2♠
+
+Round: 248
+
+falk comprou a carta: 1♣
+
+falk pegou a carta 1♠ da area de descarte! e o Monte tem 225 cartas
+
+Round: 249
+
+falk comprou a carta: 8♥
+
+Round: 250
+
+samuel comprou a carta: 4♦
+
+Round: 251
+
+falk comprou a carta: 3♦
+
+falk pegou a carta 3♣ da area de descarte! e o Monte tem 227 cartas
+
+Round: 252
+
+falk comprou a carta: 10♥
+
+falk pegou a carta 10♣ da area de descarte! e o Monte tem 229 cartas
+
+Round: 253
+
+falk comprou a carta: 6♦
+
+Round: 254
+
+samuel comprou a carta: 7♥
+
+Round: 255
+
+falk comprou a carta: 9♥
+
+falk pegou a carta 9♣ da area de descarte! e o Monte tem 231 cartas
+
+Round: 256
+
+falk comprou a carta: 8♦
+
+falk pegou a carta 8♥ da area de descarte! e o Monte tem 233 cartas
+
+Round: 257
+
+falk comprou a carta: 3♠
+
+Round: 258
+
+samuel comprou a carta: 11♠
+
+samuel pegou a carta 11♥ da area de descarte! e o Monte tem 18 cartas
+
+Round: 259
+
+samuel comprou a carta: 4♥
+
+samuel pegou a carta 4♦ da area de descarte! e o Monte tem 20 cartas
+
+Round: 260
+
+samuel comprou a carta: 5♦
+
+samuel pegou a carta 5♥ da area de descarte! e o Monte tem 22 cartas
+
+Round: 261
+
+samuel comprou a carta: 6♠
+
+samuel pegou a carta 6♦ da area de descarte! e o Monte tem 24 cartas
+
+Round: 262
+
+samuel comprou a carta: 3♣
+
+samuel pegou a carta 3♠ da area de descarte! e o Monte tem 26 cartas
+
+Round: 263
+
+samuel comprou a carta: 8♣
+
+samuel roubou o monte de falk!
+
+Round: 264
+
+samuel comprou a carta: 4♥
+
+Round: 265
+
+falk comprou a carta: 3♥
+
+Round: 266
+
+samuel comprou a carta: 13♠
+
+samuel pegou a carta 13♠ da area de descarte! e o Monte tem 262 cartas
+
+Round: 267
+
+samuel comprou a carta: 6♦
+
+Round: 268
+
+falk comprou a carta: 6♥
+
+falk pegou a carta 6♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 269
+
+falk comprou a carta: 10♠
+
+Round: 270
+
+samuel comprou a carta: 10♣
+
+samuel pegou a carta 10♠ da area de descarte! e o Monte tem 264 cartas
+
+Round: 271
+
+samuel comprou a carta: 13♣
+
+Round: 272
+
+falk comprou a carta: 11♠
+
+Round: 273
+
+samuel comprou a carta: 5♥
+
+Round: 274
+
+falk comprou a carta: 4♣
+
+falk pegou a carta 4♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 275
+
+falk comprou a carta: 11♥
+
+falk pegou a carta 11♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 276
+
+falk comprou a carta: 12♣
+
+Round: 277
+
+samuel comprou a carta: 13♦
+
+samuel pegou a carta 13♣ da area de descarte! e o Monte tem 266 cartas
+
+Round: 278
+
+samuel comprou a carta: 9♥
+
+Round: 279
+
+falk comprou a carta: 11♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 7 cartas.
+
+Round: 280
+
+falk comprou a carta: 12♠
+
+falk pegou a carta 12♣ da area de descarte! e o Monte tem 9 cartas
+
+Round: 281
+
+falk comprou a carta: 8♠
+
+Round: 282
+
+samuel comprou a carta: 7♠
+
+samuel pegou a carta 7♥ da area de descarte! e o Monte tem 268 cartas
+
+Round: 283
+
+samuel comprou a carta: 8♦
+
+samuel pegou a carta 8♠ da area de descarte! e o Monte tem 270 cartas
+
+Round: 284
+
+samuel comprou a carta: 10♦
+
+Round: 285
+
+falk comprou a carta: 12♦
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 10 cartas.
+
+Round: 286
+
+falk comprou a carta: 3♠
+
+falk pegou a carta 3♥ da area de descarte! e o Monte tem 12 cartas
+
+Round: 287
+
+falk comprou a carta: 4♠
+
+Round: 288
+
+samuel comprou a carta: 2♦
+
+samuel pegou a carta 2♠ da area de descarte! e o Monte tem 272 cartas
+
+Round: 289
+
+samuel comprou a carta: 12♥
+
+Round: 290
+
+falk comprou a carta: 10♥
+
+falk pegou a carta 10♦ da area de descarte! e o Monte tem 14 cartas
+
+Round: 291
+
+falk comprou a carta: 9♦
+
+falk pegou a carta 9♥ da area de descarte! e o Monte tem 16 cartas
+
+Round: 292
+
+falk comprou a carta: 11♣
+
+Round: 293
+
+samuel comprou a carta: 1♠
+
+Round: 294
+
+falk comprou a carta: 6♣
+
+Round: 295
+
+samuel comprou a carta: 1♥
+
+samuel pegou a carta 1♠ da area de descarte! e o Monte tem 274 cartas
+
+Round: 296
+
+samuel comprou a carta: 7♦
+
+Round: 297
+
+falk comprou a carta: 1♣
+
+falk roubou o monte de samuel!
+
+Round: 298
+
+falk comprou a carta: 5♣
+
+falk pegou a carta 5♥ da area de descarte! e o Monte tem 293 cartas
+
+Round: 299
+
+falk comprou a carta: 3♦
+
+Round: 300
+
+samuel comprou a carta: 9♠
+
+Round: 301
+
+falk comprou a carta: 7♥
+
+falk pegou a carta 7♦ da area de descarte! e o Monte tem 295 cartas
+
+Round: 302
+
+falk comprou a carta: 2♠
+
+Round: 303
+
+samuel comprou a carta: 9♣
+
+samuel pegou a carta 9♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 304
+
+samuel comprou a carta: 5♦
+
+Round: 305
+
+falk comprou a carta: 7♣
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 296 cartas.
+
+Round: 306
+
+falk comprou a carta: 4♦
+
+falk pegou a carta 4♠ da area de descarte! e o Monte tem 298 cartas
+
+Round: 307
+
+falk comprou a carta: 2♥
+
+falk pegou a carta 2♠ da area de descarte! e o Monte tem 300 cartas
+
+Round: 308
+
+falk comprou a carta: 5♠
+
+falk pegou a carta 5♦ da area de descarte! e o Monte tem 302 cartas
+
+Round: 309
+
+falk comprou a carta: 8♥
+
+Round: 310
+
+samuel comprou a carta: 1♦
+
+Round: 311
+
+falk comprou a carta: 13♥
+
+Round: 312
+
+samuel comprou a carta: 2♣
+
+Round: 313
+
+falk comprou a carta: 2♦
+
+falk pegou a carta 2♣ da area de descarte! e o Monte tem 304 cartas
+
+Round: 314
+
+falk comprou a carta: 5♣
+
+Round: 315
+
+samuel comprou a carta: 10♠
+
+Round: 316
+
+falk comprou a carta: 11♠
+
+falk pegou a carta 11♣ da area de descarte! e o Monte tem 306 cartas
+
+Round: 317
+
+falk comprou a carta: 1♦
+
+falk pegou a carta 1♦ da area de descarte! e o Monte tem 308 cartas
+
+Round: 318
+
+falk comprou a carta: 9♣
+
+falk roubou o monte de samuel!
+
+Round: 319
+
+falk comprou a carta: 10♦
+
+falk pegou a carta 10♠ da area de descarte! e o Monte tem 313 cartas
+
+Round: 320
+
+falk comprou a carta: 10♣
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 314 cartas.
+
+Round: 321
+
+falk comprou a carta: 12♣
+
+falk pegou a carta 12♥ da area de descarte! e o Monte tem 316 cartas
+
+Round: 322
+
+falk comprou a carta: 7♠
+
+Round: 323
+
+samuel comprou a carta: 3♦
+
+samuel pegou a carta 3♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 324
+
+samuel comprou a carta: 6♥
+
+samuel pegou a carta 6♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 325
+
+samuel comprou a carta: 9♠
+
+Round: 326
+
+falk comprou a carta: 5♠
+
+falk pegou a carta 5♣ da area de descarte! e o Monte tem 318 cartas
+
+Round: 327
+
+falk comprou a carta: 6♣
+
+falk roubou o monte de samuel!
+
+Round: 328
+
+falk comprou a carta: 1♣
+
+Round: 329
+
+samuel comprou a carta: 3♣
+
+Round: 330
+
+falk comprou a carta: 13♠
+
+falk pegou a carta 13♥ da area de descarte! e o Monte tem 325 cartas
+
+Round: 331
+
+falk comprou a carta: 10♥
+
+Round: 332
+
+samuel comprou a carta: 4♦
+
+Round: 333
+
+falk comprou a carta: 4♣
+
+falk pegou a carta 4♦ da area de descarte! e o Monte tem 327 cartas
+
+Round: 334
+
+falk comprou a carta: 12♠
+
+Round: 335
+
+samuel comprou a carta: 2♠
+
+Round: 336
+
+falk comprou a carta: 8♦
+
+falk pegou a carta 8♥ da area de descarte! e o Monte tem 329 cartas
+
+Round: 337
+
+falk comprou a carta: 4♠
+
+Round: 338
+
+samuel comprou a carta: 13♥
+
+Round: 339
+
+falk comprou a carta: 8♣
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 330 cartas.
+
+Round: 340
+
+falk comprou a carta: 6♠
+
+Round: 341
+
+samuel comprou a carta: 13♦
+
+samuel pegou a carta 13♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 342
+
+samuel comprou a carta: 3♥
+
+samuel pegou a carta 3♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 343
+
+samuel comprou a carta: 7♣
+
+samuel pegou a carta 7♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 344
+
+samuel comprou a carta: 7♦
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 7 cartas.
+
+Round: 345
+
+samuel comprou a carta: 5♦
+
+Round: 346
+
+falk comprou a carta: 11♣
+
+Round: 347
+
+samuel comprou a carta: 9♥
+
+samuel pegou a carta 9♠ da area de descarte! e o Monte tem 9 cartas
+
+Round: 348
+
+samuel comprou a carta: 8♥
+
+samuel roubou o monte de falk!
+
+Round: 349
+
+samuel comprou a carta: 12♥
+
+samuel pegou a carta 12♠ da area de descarte! e o Monte tem 342 cartas
+
+Round: 350
+
+samuel comprou a carta: 1♥
+
+samuel pegou a carta 1♣ da area de descarte! e o Monte tem 344 cartas
+
+Round: 351
+
+samuel comprou a carta: 3♠
+
+Round: 352
+
+falk comprou a carta: 6♦
+
+falk pegou a carta 6♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 353
+
+falk comprou a carta: 11♦
+
+falk pegou a carta 11♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 354
+
+falk comprou a carta: 9♦
+
+Round: 355
+
+samuel comprou a carta: 2♥
+
+samuel pegou a carta 2♠ da area de descarte! e o Monte tem 346 cartas
+
+Round: 356
+
+samuel comprou a carta: 7♥
+
+Round: 357
+
+falk comprou a carta: 8♠
+
+Round: 358
+
+samuel comprou a carta: 1♠
+
+Round: 359
+
+falk comprou a carta: 11♥
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 5 cartas.
+
+Round: 360
+
+falk comprou a carta: 4♥
+
+falk pegou a carta 4♠ da area de descarte! e o Monte tem 7 cartas
+
+Round: 361
+
+falk comprou a carta: 12♦
+
+Round: 362
+
+samuel comprou a carta: 13♣
+
+Round: 363
+
+falk comprou a carta: 5♥
+
+falk pegou a carta 5♦ da area de descarte! e o Monte tem 9 cartas
+
+Round: 364
+
+falk comprou a carta: 2♣
+
+falk roubou o monte de samuel!
+
+Round: 365
+
+falk comprou a carta: 1♦
+
+falk pegou a carta 1♠ da area de descarte! e o Monte tem 358 cartas
+
+Round: 366
+
+falk comprou a carta: 1♠
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 359 cartas.
+
+Round: 367
+
+falk comprou a carta: 8♣
+
+falk pegou a carta 8♠ da area de descarte! e o Monte tem 361 cartas
+
+Round: 368
+
+falk comprou a carta: 10♠
+
+falk pegou a carta 10♥ da area de descarte! e o Monte tem 363 cartas
+
+Round: 369
+
+falk comprou a carta: 6♥
+
+Round: 370
+
+samuel comprou a carta: 10♥
+
+samuel roubou o monte de falk!
+
+Round: 371
+
+samuel comprou a carta: 5♥
+
+Round: 372
+
+falk comprou a carta: 12♦
+
+falk pegou a carta 12♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 373
+
+falk comprou a carta: 9♥
+
+falk pegou a carta 9♦ da area de descarte! e o Monte tem 4 cartas
+
+Round: 374
+
+falk comprou a carta: 8♥
+
+Round: 375
+
+samuel comprou a carta: 7♣
+
+samuel pegou a carta 7♥ da area de descarte! e o Monte tem 366 cartas
+
+Round: 376
+
+samuel comprou a carta: 9♠
+
+samuel roubou o monte de falk!
+
+Round: 377
+
+samuel comprou a carta: 12♠
+
+Round: 378
+
+falk comprou a carta: 7♠
+
+Round: 379
+
+samuel comprou a carta: 13♥
+
+samuel pegou a carta 13♣ da area de descarte! e o Monte tem 373 cartas
+
+Round: 380
+
+samuel comprou a carta: 2♠
+
+Round: 381
+
+falk comprou a carta: 11♥
+
+Round: 382
+
+samuel comprou a carta: 11♠
+
+samuel pegou a carta 11♥ da area de descarte! e o Monte tem 375 cartas
+
+Round: 383
+
+samuel comprou a carta: 9♣
+
+Round: 384
+
+falk comprou a carta: 4♣
+
+Round: 385
+
+samuel comprou a carta: 2♥
+
+samuel pegou a carta 2♠ da area de descarte! e o Monte tem 377 cartas
+
+Round: 386
+
+samuel comprou a carta: 3♣
+
+samuel pegou a carta 3♠ da area de descarte! e o Monte tem 379 cartas
+
+Round: 387
+
+samuel comprou a carta: 11♣
+
+Round: 388
+
+falk comprou a carta: 13♠
+
+Round: 389
+
+samuel comprou a carta: 4♠
+
+samuel pegou a carta 4♣ da area de descarte! e o Monte tem 381 cartas
+
+Round: 390
+
+samuel comprou a carta: 8♦
+
+samuel pegou a carta 8♥ da area de descarte! e o Monte tem 383 cartas
+
+Round: 391
+
+samuel comprou a carta: 1♣
+
+Round: 392
+
+falk comprou a carta: 2♣
+
+Round: 393
+
+samuel comprou a carta: 9♦
+
+samuel pegou a carta 9♣ da area de descarte! e o Monte tem 385 cartas
+
+Round: 394
+
+samuel comprou a carta: 6♠
+
+samuel pegou a carta 6♥ da area de descarte! e o Monte tem 387 cartas
+
+Round: 395
+
+samuel comprou a carta: 5♠
+
+samuel pegou a carta 5♥ da area de descarte! e o Monte tem 389 cartas
+
+Round: 396
+
+samuel comprou a carta: 12♥
+
+samuel pegou a carta 12♠ da area de descarte! e o Monte tem 391 cartas
+
+Round: 397
+
+samuel comprou a carta: 11♦
+
+samuel pegou a carta 11♣ da area de descarte! e o Monte tem 393 cartas
+
+Round: 398
+
+samuel comprou a carta: 1♥
+
+samuel pegou a carta 1♣ da area de descarte! e o Monte tem 395 cartas
+
+Round: 399
+
+samuel comprou a carta: 3♥
+
+Round: 400
+
+falk comprou a carta: 8♠
+
+Round: 401
+
+samuel comprou a carta: 13♦
+
+samuel pegou a carta 13♠ da area de descarte! e o Monte tem 397 cartas
+
+Round: 402
+
+samuel comprou a carta: 4♦
+
+Round: 403
+
+falk comprou a carta: 5♦
+
+Round: 404
+
+samuel comprou a carta: 5♣
+
+samuel pegou a carta 5♦ da area de descarte! e o Monte tem 399 cartas
+
+Round: 405
+
+samuel comprou a carta: 4♥
+
+samuel pegou a carta 4♦ da area de descarte! e o Monte tem 401 cartas
+
+Round: 406
+
+samuel comprou a carta: 2♦
+
+samuel pegou a carta 2♣ da area de descarte! e o Monte tem 403 cartas
+
+Round: 407
+
+samuel comprou a carta: 3♠
+
+samuel pegou a carta 3♥ da area de descarte! e o Monte tem 405 cartas
+
+Round: 408
+
+samuel comprou a carta: 6♦
+
+Round: 409
+
+falk comprou a carta: 12♣
+
+Round: 410
+
+samuel comprou a carta: 10♣
+
+Round: 411
+
+falk comprou a carta: 6♣
+
+falk pegou a carta 6♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 412
+
+falk comprou a carta: 10♦
+
+falk pegou a carta 10♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 413
+
+falk comprou a carta: 3♦
+
+falk roubou o monte de samuel!
+
+Round: 414
+
+falk comprou a carta: 7♥
+
+falk pegou a carta 7♠ da area de descarte! e o Monte tem 412 cartas
+
+Round: 415
+
+falk comprou a carta: 13♣
+
+Round: 416
+
+samuel comprou a carta: 7♦
+
+samuel roubou o monte de falk!
+
+Round: 417
+
+samuel comprou a carta: 1♣
+
+Round: 418
+
+falk comprou a carta: 9♥
+
+Round: 419
+
+samuel comprou a carta: 2♠
+
+Round: 420
+
+falk comprou a carta: 10♠
+
+Round: 421
+
+samuel comprou a carta: 4♦
+
+Round: 422
+
+falk comprou a carta: 7♠
+
+falk roubou o monte de samuel!
+
+Round: 423
+
+falk comprou a carta: 8♦
+
+falk pegou a carta 8♠ da area de descarte! e o Monte tem 416 cartas
+
+Round: 424
+
+falk comprou a carta: 8♠
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 417 cartas.
+
+Round: 425
+
+falk comprou a carta: 4♠
+
+falk pegou a carta 4♦ da area de descarte! e o Monte tem 419 cartas
+
+Round: 426
+
+falk comprou a carta: 1♠
+
+falk pegou a carta 1♣ da area de descarte! e o Monte tem 421 cartas
+
+Round: 427
+
+falk comprou a carta: 5♥
+
+Round: 428
+
+samuel comprou a carta: 13♣
+
+samuel pegou a carta 13♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 429
+
+samuel comprou a carta: 6♠
+
+Round: 430
+
+falk comprou a carta: 13♠
+
+falk roubou o monte de samuel!
+
+Round: 431
+
+falk comprou a carta: 4♥
+
+Round: 432
+
+samuel comprou a carta: 10♣
+
+samuel pegou a carta 10♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 433
+
+samuel comprou a carta: 12♦
+
+samuel pegou a carta 12♣ da area de descarte! e o Monte tem 4 cartas
+
+Round: 434
+
+samuel comprou a carta: 11♣
+
+Round: 435
+
+falk comprou a carta: 10♥
+
+Round: 436
+
+samuel comprou a carta: 9♠
+
+samuel pegou a carta 9♥ da area de descarte! e o Monte tem 6 cartas
+
+Round: 437
+
+samuel comprou a carta: 2♣
+
+samuel pegou a carta 2♠ da area de descarte! e o Monte tem 8 cartas
+
+Round: 438
+
+samuel comprou a carta: 9♣
+
+Round: 439
+
+falk comprou a carta: 3♥
+
+Round: 440
+
+samuel comprou a carta: 1♥
+
+Round: 441
+
+falk comprou a carta: 7♥
+
+Round: 442
+
+samuel comprou a carta: 6♥
+
+samuel pegou a carta 6♠ da area de descarte! e o Monte tem 10 cartas
+
+Round: 443
+
+samuel comprou a carta: 6♣
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 11 cartas.
+
+Round: 444
+
+samuel comprou a carta: 5♦
+
+samuel pegou a carta 5♥ da area de descarte! e o Monte tem 13 cartas
+
+Round: 445
+
+samuel comprou a carta: 9♦
+
+samuel pegou a carta 9♣ da area de descarte! e o Monte tem 15 cartas
+
+Round: 446
+
+samuel comprou a carta: 12♣
+
+Round: 447
+
+falk comprou a carta: 12♥
+
+falk pegou a carta 12♣ da area de descarte! e o Monte tem 426 cartas
+
+Round: 448
+
+falk comprou a carta: 11♥
+
+falk pegou a carta 11♣ da area de descarte! e o Monte tem 428 cartas
+
+Round: 449
+
+falk comprou a carta: 11♠
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 429 cartas.
+
+Round: 450
+
+falk comprou a carta: 7♦
+
+falk pegou a carta 7♥ da area de descarte! e o Monte tem 431 cartas
+
+Round: 451
+
+falk comprou a carta: 11♦
+
+Round: 452
+
+samuel comprou a carta: 2♥
+
+Round: 453
+
+falk comprou a carta: 3♣
+
+falk pegou a carta 3♥ da area de descarte! e o Monte tem 433 cartas
+
+Round: 454
+
+falk comprou a carta: 13♥
+
+Round: 455
+
+samuel comprou a carta: 10♦
+
+samuel pegou a carta 10♥ da area de descarte! e o Monte tem 17 cartas
+
+Round: 456
+
+samuel comprou a carta: 4♣
+
+samuel pegou a carta 4♥ da area de descarte! e o Monte tem 19 cartas
+
+Round: 457
+
+samuel comprou a carta: 6♦
+
+Round: 458
+
+falk comprou a carta: 12♠
+
+Round: 459
+
+samuel comprou a carta: 2♦
+
+samuel pegou a carta 2♥ da area de descarte! e o Monte tem 21 cartas
+
+Round: 460
+
+samuel comprou a carta: 1♦
+
+samuel pegou a carta 1♥ da area de descarte! e o Monte tem 23 cartas
+
+Round: 461
+
+samuel comprou a carta: 8♥
+
+Round: 462
+
+falk comprou a carta: 13♦
+
+falk pegou a carta 13♥ da area de descarte! e o Monte tem 435 cartas
+
+Round: 463
+
+falk comprou a carta: 3♦
+
+Round: 464
+
+samuel comprou a carta: 5♣
+
+Round: 465
+
+falk comprou a carta: 7♣
+
+Round: 466
+
+samuel comprou a carta: 8♣
+
+samuel pegou a carta 8♥ da area de descarte! e o Monte tem 25 cartas
+
+Round: 467
+
+samuel comprou a carta: 3♠
+
+samuel pegou a carta 3♦ da area de descarte! e o Monte tem 27 cartas
+
+Round: 468
+
+samuel comprou a carta: 5♠
+
+samuel pegou a carta 5♣ da area de descarte! e o Monte tem 29 cartas
+
+============================================================
+
+============================================================
+
+Round: 1
+
+falk comprou a carta: 7♥
+
+Round: 2
+
+falk comprou a carta: 1♥
+
+Round: 3
+
+samuel comprou a carta: 12♥
+
+Round: 4
+
+falk comprou a carta: 8♣
+
+Round: 5
+
+samuel comprou a carta: 10♠
+
+Round: 6
+
+falk comprou a carta: 8♦
+
+falk pegou a carta 8♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 7
+
+falk comprou a carta: 1♦
+
+falk pegou a carta 1♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 8
+
+falk comprou a carta: 9♠
+
+Round: 9
+
+samuel comprou a carta: 4♥
+
+Round: 10
+
+falk comprou a carta: 1♠
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 5 cartas.
+
+Round: 11
+
+falk comprou a carta: 9♦
+
+falk pegou a carta 9♠ da area de descarte! e o Monte tem 7 cartas
+
+Round: 12
+
+falk comprou a carta: 13♦
+
+Round: 13
+
+samuel comprou a carta: 3♠
+
+Round: 14
+
+falk comprou a carta: 10♣
+
+falk pegou a carta 10♠ da area de descarte! e o Monte tem 9 cartas
+
+Round: 15
+
+falk comprou a carta: 6♥
+
+Round: 16
+
+samuel comprou a carta: 2♣
+
+Round: 17
+
+falk comprou a carta: 4♠
+
+falk pegou a carta 4♥ da area de descarte! e o Monte tem 11 cartas
+
+Round: 18
+
+falk comprou a carta: 12♦
+
+falk pegou a carta 12♥ da area de descarte! e o Monte tem 13 cartas
+
+Round: 19
+
+falk comprou a carta: 11♠
+
+Round: 20
+
+samuel comprou a carta: 13♠
+
+samuel pegou a carta 13♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 21
+
+samuel comprou a carta: 13♣
+
+samuel colocou a carta no topo do próprio monte!
+
+O jogador samuel agora tem 3 cartas.
+
+Round: 22
+
+samuel comprou a carta: 5♠
+
+Round: 23
+
+falk comprou a carta: 6♠
+
+falk pegou a carta 6♥ da area de descarte! e o Monte tem 15 cartas
+
+Round: 24
+
+falk comprou a carta: 10♥
+
+Round: 25
+
+samuel comprou a carta: 4♦
+
+Round: 26
+
+falk comprou a carta: 8♥
+
+Round: 27
+
+samuel comprou a carta: 9♣
+
+Round: 28
+
+falk comprou a carta: 5♣
+
+falk pegou a carta 5♠ da area de descarte! e o Monte tem 17 cartas
+
+Round: 29
+
+falk comprou a carta: 11♣
+
+falk pegou a carta 11♠ da area de descarte! e o Monte tem 19 cartas
+
+Round: 30
+
+falk comprou a carta: 9♥
+
+falk pegou a carta 9♣ da area de descarte! e o Monte tem 21 cartas
+
+Round: 31
+
+falk comprou a carta: 11♥
+
+Round: 32
+
+samuel comprou a carta: 12♠
+
+Round: 33
+
+falk comprou a carta: 7♦
+
+falk pegou a carta 7♥ da area de descarte! e o Monte tem 23 cartas
+
+Round: 34
+
+falk comprou a carta: 12♣
+
+falk pegou a carta 12♠ da area de descarte! e o Monte tem 25 cartas
+
+Round: 35
+
+falk comprou a carta: 11♦
+
+falk pegou a carta 11♥ da area de descarte! e o Monte tem 27 cartas
+
+Round: 36
+
+falk comprou a carta: 4♣
+
+falk pegou a carta 4♦ da area de descarte! e o Monte tem 29 cartas
+
+Round: 37
+
+falk comprou a carta: 5♥
+
+Round: 38
+
+samuel comprou a carta: 6♣
+
+Round: 39
+
+falk comprou a carta: 3♦
+
+falk pegou a carta 3♠ da area de descarte! e o Monte tem 31 cartas
+
+Round: 40
+
+falk comprou a carta: 8♠
+
+falk pegou a carta 8♥ da area de descarte! e o Monte tem 33 cartas
+
+Round: 41
+
+falk comprou a carta: 2♦
+
+falk pegou a carta 2♣ da area de descarte! e o Monte tem 35 cartas
+
+Round: 42
+
+falk comprou a carta: 2♠
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 36 cartas.
+
+Round: 43
+
+falk comprou a carta: 2♥
+
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 37 cartas.
+
+Round: 44
+
+falk comprou a carta: 1♣
+
+Round: 45
+
+samuel comprou a carta: 10♦
+
+samuel pegou a carta 10♥ da area de descarte! e o Monte tem 5 cartas
+
+============================================================
+
+============================================================
+
+Round: 1
+
+s comprou a carta: 12♣
+
+Round: 2
+
+f comprou a carta: 2♠
+
+Round: 3
+
+s comprou a carta: 1♠
+
+Round: 4
+
+f comprou a carta: 9♠
+
+Round: 5
+
+s comprou a carta: 12♥
+
+s pegou a carta 12♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 6
+
+s comprou a carta: 11♣
+
+Round: 7
+
+f comprou a carta: 3♠
+
+Round: 8
+
+s comprou a carta: 5♥
+
+Round: 9
+
+f comprou a carta: 10♥
+
+Round: 10
+
+s comprou a carta: 5♠
+
+s pegou a carta 5♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 11
+
+s comprou a carta: 9♥
+
+s pegou a carta 9♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 12
+
+s comprou a carta: 8♥
+
+Round: 13
+
+f comprou a carta: 8♦
+
+f pegou a carta 8♥ da area de descarte! e o Monte tem 2 cartas
+
+Round: 14
+
+f comprou a carta: 6♠
+
+Round: 15
+
+s comprou a carta: 11♦
+
+s pegou a carta 11♣ da area de descarte! e o Monte tem 8 cartas
+
+Round: 16
+
+s comprou a carta: 12♦
+
+Round: 17
+
+f comprou a carta: 2♦
+
+f pegou a carta 2♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 18
+
+f comprou a carta: 12♠
+
+f pegou a carta 12♦ da area de descarte! e o Monte tem 6 cartas
+
+Round: 19
+
+f comprou a carta: 10♦
+
+f pegou a carta 10♥ da area de descarte! e o Monte tem 8 cartas
+
+Round: 20
+
+f comprou a carta: 8♣
+
+Round: 21
+
+s comprou a carta: 10♠
+
+s roubou o monte de f!
+
+Round: 22
+
+s comprou a carta: 7♦
+
+Round: 23
+
+f comprou a carta: 3♣
+
+f pegou a carta 3♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 24
+
+f comprou a carta: 6♣
+
+f pegou a carta 6♠ da area de descarte! e o Monte tem 4 cartas
+
+Round: 25
+
+f comprou a carta: 1♥
+
+f pegou a carta 1♠ da area de descarte! e o Monte tem 6 cartas
+
+Round: 26
+
+f comprou a carta: 6♥
+
+Round: 27
+
+s comprou a carta: 7♠
+
+s pegou a carta 7♦ da area de descarte! e o Monte tem 19 cartas
+
+Round: 28
+
+s comprou a carta: 9♦
+
+Round: 29
+
+f comprou a carta: 11♠
+
+Round: 30
+
+s comprou a carta: 4♠
+
+Round: 31
+
+f comprou a carta: 13♠
+
+Round: 32
+
+s comprou a carta: 9♣
+
+s pegou a carta 9♦ da area de descarte! e o Monte tem 21 cartas
+
+Round: 33
+
+s comprou a carta: 5♣
+
+Round: 34
+
+f comprou a carta: 3♥
+
+Round: 35
+
+s comprou a carta: 4♦
+
+s pegou a carta 4♠ da area de descarte! e o Monte tem 23 cartas
+
+Round: 36
+
+s comprou a carta: 5♦
+
+s pegou a carta 5♣ da area de descarte! e o Monte tem 25 cartas
+
+Round: 37
+
+s comprou a carta: 7♣
+
+Round: 38
+
+f comprou a carta: 13♦
+
+f pegou a carta 13♠ da area de descarte! e o Monte tem 8 cartas
+
+Round: 39
+
+f comprou a carta: 1♦
+
+Round: 40
+
+s comprou a carta: 7♥
+
+s pegou a carta 7♣ da area de descarte! e o Monte tem 27 cartas
+
+Round: 41
+
+s comprou a carta: 4♥
+
+Round: 42
+
+f comprou a carta: 3♦
+
+f pegou a carta 3♥ da area de descarte! e o Monte tem 10 cartas
+
+Round: 43
+
+f comprou a carta: 1♣
+
+f pegou a carta 1♦ da area de descarte! e o Monte tem 12 cartas
+
+Round: 44
+
+f comprou a carta: 13♣
+
+Round: 45
+
+s comprou a carta: 13♥
+
+s pegou a carta 13♣ da area de descarte! e o Monte tem 29 cartas
+
+============================================================
+
+============================================================
+
+Round: 1
+
+s comprou a carta: 4♥
+
+Round: 2
+
+f comprou a carta: 2♥
+
+Round: 3
+
+s comprou a carta: 9♣
+
+Round: 4
+
+f comprou a carta: 11♥
+
+Round: 5
+
+s comprou a carta: 13♥
+
+Round: 6
+
+f comprou a carta: 3♠
+
+Round: 7
+
+s comprou a carta: 6♦
+
+Round: 8
+
+f comprou a carta: 9♠
+
+f pegou a carta 9♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 9
+
+f comprou a carta: 4♣
+
+f pegou a carta 4♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 10
+
+f comprou a carta: 12♦
+
+Round: 11
+
+s comprou a carta: 5♠
+
+Round: 12
+
+f comprou a carta: 9♥
+
+Round: 13
+
+s comprou a carta: 7♦
+
+Round: 14
+
+f comprou a carta: 6♥
+
+f pegou a carta 6♦ da area de descarte! e o Monte tem 6 cartas
+
+Round: 15
+
+f comprou a carta: 1♠
+
+Round: 16
+
+s comprou a carta: 6♣
+
+s roubou o monte de f!
+
+Round: 17
+
+s comprou a carta: 9♦
+
+s pegou a carta 9♥ da area de descarte! e o Monte tem 9 cartas
+
+Round: 18
+
+s comprou a carta: 1♦
+
+s pegou a carta 1♠ da area de descarte! e o Monte tem 11 cartas
+
+Round: 19
+
+s comprou a carta: 12♣
+
+s pegou a carta 12♦ da area de descarte! e o Monte tem 13 cartas
+
+Round: 20
+
+s comprou a carta: 2♠
+
+s pegou a carta 2♥ da area de descarte! e o Monte tem 15 cartas
+
+Round: 21
+
+s comprou a carta: 11♠
+
+s pegou a carta 11♥ da area de descarte! e o Monte tem 17 cartas
+
+Round: 22
+
+s comprou a carta: 5♥
+
+s pegou a carta 5♠ da area de descarte! e o Monte tem 19 cartas
+
+Round: 23
+
+s comprou a carta: 10♠
+
+Round: 24
+
+f comprou a carta: 8♣
+
+Round: 25
+
+s comprou a carta: 13♣
+
+s pegou a carta 13♥ da area de descarte! e o Monte tem 21 cartas
+
+Round: 26
+
+s comprou a carta: 10♣
+
+s pegou a carta 10♠ da area de descarte! e o Monte tem 23 cartas
+
+Round: 27
+
+s comprou a carta: 12♠
+
+Round: 28
+
+f comprou a carta: 13♠
+
+Round: 29
+
+s comprou a carta: 7♣
+
+s pegou a carta 7♦ da area de descarte! e o Monte tem 25 cartas
+
+Round: 30
+
+s comprou a carta: 2♣
+
+Round: 31
+
+f comprou a carta: 1♣
+
+Round: 32
+
+s comprou a carta: 11♣
+
+Round: 33
+
+f comprou a carta: 7♥
+
+f roubou o monte de s!
+
+Round: 34
+
+f comprou a carta: 5♣
+
+Round: 35
+
+s comprou a carta: 10♥
+
+Round: 36
+
+f comprou a carta: 13♦
+
+f pegou a carta 13♠ da area de descarte! e o Monte tem 28 cartas
+
+Round: 37
+
+f comprou a carta: 8♠
+
+f pegou a carta 8♣ da area de descarte! e o Monte tem 30 cartas
+
+Round: 38
+
+f comprou a carta: 4♠
+
+Round: 39
+
+s comprou a carta: 8♥
+
+s roubou o monte de f!
+
+Round: 40
+
+s comprou a carta: 5♦
+
+s pegou a carta 5♣ da area de descarte! e o Monte tem 33 cartas
+
+Round: 41
+
+s comprou a carta: 2♦
+
+s pegou a carta 2♣ da area de descarte! e o Monte tem 35 cartas
+
+Round: 42
+
+s comprou a carta: 3♥
+
+s pegou a carta 3♠ da area de descarte! e o Monte tem 37 cartas
+
+Round: 43
+
+s comprou a carta: 3♣
+
+s colocou a carta no topo do próprio monte!
+
+O jogador s agora tem 38 cartas.
+
+Round: 44
+
+s comprou a carta: 4♦
+
+s pegou a carta 4♠ da area de descarte! e o Monte tem 40 cartas
+
+Round: 45
+
+s comprou a carta: 12♥
+
+s pegou a carta 12♠ da area de descarte! e o Monte tem 42 cartas
+
+Round: 46
+
+s comprou a carta: 11♦
+
+s pegou a carta 11♣ da area de descarte! e o Monte tem 44 cartas
+
+Round: 47
+
+s comprou a carta: 1♥
+
+s pegou a carta 1♣ da area de descarte! e o Monte tem 46 cartas
+
+Round: 48
+
+s comprou a carta: 7♠
+
+============================================================
+
+============================================================
+
+Round: 1
+
+s comprou a carta: 9♥
+
+Round: 2
+
+s comprou a carta: 3♥
+
+Round: 3
+
+f comprou a carta: 7♥
+
+Round: 4
+
+s comprou a carta: 1♦
+
+Round: 5
+
+f comprou a carta: 11♠
+
+Round: 6
+
+s comprou a carta: 5♦
+
+Round: 7
+
+f comprou a carta: 2♣
+
+Round: 8
+
+s comprou a carta: 2♥
+
+s pegou a carta 2♣ da area de descarte! e o Monte tem 2 cartas
+
+Round: 9
+
+s comprou a carta: 3♣
+
+s pegou a carta 3♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 10
+
+s comprou a carta: 3♠
+
+s colocou a carta no topo do próprio monte!
+
+O jogador s agora tem 5 cartas.
+
+Round: 11
+
+s comprou a carta: 8♦
+
+Round: 12
+
+f comprou a carta: 11♦
+
+f pegou a carta 11♠ da area de descarte! e o Monte tem 2 cartas
+
+Round: 13
+
+f comprou a carta: 7♣
+
+f pegou a carta 7♥ da area de descarte! e o Monte tem 4 cartas
+
+Round: 14
+
+f comprou a carta: 7♦
+
+f colocou a carta no topo do próprio monte!
+
+O jogador f agora tem 5 cartas.
+
+Round: 15
+
+f comprou a carta: 2♦
+
+Round: 16
+
+s comprou a carta: 1♥
+
+s pegou a carta 1♦ da area de descarte! e o Monte tem 7 cartas
+
+Round: 17
+
+s comprou a carta: 8♥
+
+s pegou a carta 8♦ da area de descarte! e o Monte tem 9 cartas
+
+Round: 18
+
+s comprou a carta: 10♠
+
+Round: 19
+
+f comprou a carta: 1♠
+
+Round: 20
+
+s comprou a carta: 5♣
+
+s pegou a carta 5♦ da area de descarte! e o Monte tem 11 cartas
+
+Round: 21
+
+s comprou a carta: 8♠
+
+Round: 22
+
+f comprou a carta: 6♦
+
+Round: 23
+
+s comprou a carta: 6♣
+
+s pegou a carta 6♦ da area de descarte! e o Monte tem 13 cartas
+
+Round: 24
+
+s comprou a carta: 4♠
+
+Round: 25
+
+f comprou a carta: 11♥
+
+Round: 26
+
+s comprou a carta: 6♥
+
+s colocou a carta no topo do próprio monte!
+
+O jogador s agora tem 14 cartas.
+
+Round: 27
+
+s comprou a carta: 9♣
+
+s pegou a carta 9♥ da area de descarte! e o Monte tem 16 cartas
+
+Round: 28
+
+s comprou a carta: 10♥
+
+s pegou a carta 10♠ da area de descarte! e o Monte tem 18 cartas
+
+Round: 29
+
+s comprou a carta: 4♣
+
+s pegou a carta 4♠ da area de descarte! e o Monte tem 20 cartas
+
+Round: 30
+
+s comprou a carta: 4♥
+
+s colocou a carta no topo do próprio monte!
+
+O jogador s agora tem 21 cartas.
+
+Round: 31
+
+s comprou a carta: 12♠
+
+Round: 32
+
+f comprou a carta: 3♦
+
+Round: 33
+
+s comprou a carta: 13♥
+
+Round: 34
+
+f comprou a carta: 12♥
+
+f pegou a carta 12♠ da area de descarte! e o Monte tem 7 cartas
+
+Round: 35
+
+f comprou a carta: 4♦
+
+f roubou o monte de s!
+
+Round: 36
+
+f comprou a carta: 1♣
+
+f pegou a carta 1♠ da area de descarte! e o Monte tem 31 cartas
+
+Round: 37
+
+f comprou a carta: 6♠
+
+Round: 38
+
+s comprou a carta: 12♦
+
+Round: 39
+
+f comprou a carta: 11♣
+
+f pegou a carta 11♥ da area de descarte! e o Monte tem 33 cartas
+
+Round: 40
+
+f comprou a carta: 13♦
+
+f pegou a carta 13♥ da area de descarte! e o Monte tem 35 cartas
+
+Round: 41
+
+f comprou a carta: 10♦
+
+Round: 42
+
+s comprou a carta: 5♠
+
+Round: 43
+
+f comprou a carta: 9♠
+
+Round: 44
+
+s comprou a carta: 10♣
+
+s pegou a carta 10♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 45
+
+s comprou a carta: 2♠
+
+s pegou a carta 2♦ da area de descarte! e o Monte tem 4 cartas
+
+============================================================
+
+Round: 1
+
+============================================================
+
+Round: 1
+
+dam comprou a carta: 13♦
+
+Round: 2
+
+dam comprou a carta: 3♥
+
+Round: 3
+
+sam comprou a carta: 1♦
+
+Round: 4
+
+dam comprou a carta: 1♣
+
+dam pegou a carta 1♦ da area de descarte! e o Monte tem 2 cartas
+
+Round: 5
+
+dam comprou a carta: 13♠
+
+dam pegou a carta 13♦ da area de descarte! e o Monte tem 4 cartas
+
+Round: 6
+
+dam comprou a carta: 13♣
+
+dam colocou a carta no topo do próprio monte!
+
+O jogador dam agora tem 5 cartas.
+
+Round: 7
+
+dam comprou a carta: 3♠
+
+dam pegou a carta 3♥ da area de descarte! e o Monte tem 7 cartas
+
+Round: 8
+
+dam comprou a carta: 4♠
+
+Round: 9
+
+sam comprou a carta: 11♣
+
+Round: 10
+
+dam comprou a carta: 8♠
+
+Vencedor: sam com 0 cartas!
+
+============================================================
+

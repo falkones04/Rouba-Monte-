@@ -6,7 +6,7 @@ namespace Rouba_Monte
 {
     internal class Fila : IEnumerable<Jogador>
     {
-        private Jogador[] array;
+        public Jogador[] array;
         private int primeiro, ultimo, atual;
         public Fila(int tam)
         {

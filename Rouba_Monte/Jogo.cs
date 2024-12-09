@@ -16,9 +16,14 @@ namespace Rouba_Monte
             baralho = new Stack<Carta>(numDeCartas);
             this.jogadores = jogadores;
             areaDeDescarte = new List<Carta>();
+            areaDeDescarte.Clear();
             int numDeBaralhos = numDeCartas / 52;
             int numDeExcedentes = numDeCartas % 52;
-
+            foreach (var jogador in jogadores)
+            {
+                jogador.monte.Clear();
+            }
+            baralho.Clear();
             IniciarBaralho(numDeBaralhos, numDeExcedentes);
         }
         public Jogo(int numDeCartas, int numDeJogador)
@@ -138,8 +143,7 @@ namespace Rouba_Monte
                     }
                     else
                     {
-                        //ranking compara o tamanho dos montes e retorna eles ordenados pelo tamanho do monte, EXIBIR NO FINAL DO JOGO, faz variavel pra colocar o trem
-                        //pipipi popopo e lembra de no final joga essa variavel temp q recebe o log pra outra do arquivo que recebe esse log agr, sim é feito e é repetição
+                        RegistrarVencedor();
                         Console.WriteLine("Fim De Jogo");
                         RegistrarLog(barra);
                         break;
@@ -150,14 +154,17 @@ namespace Rouba_Monte
         }
         private void RegistrarVencedor()
         {
-
+        }
+        public static int CompararPorMonte(Jogador j1, Jogador j2)
+        {
+            return j2.monte.Count.CompareTo(j1.monte.Count);
         }
         private void RegistrarLog(string x)
         {
-            string path = @"C:/Users/Samuel/Documents/GitHub/Rouba-Monte-/Rouba_Monte/log.txt";
+            string path = @"C:\Users\Falkin\Documents\Rouba-Monte-\Rouba_Monte\log.txt";
             try
             {
-                using (StreamWriter frase = new StreamWriter(path, append:true))
+                using (StreamWriter frase = new StreamWriter(path, append: true))
                 {
                     frase.WriteLine(x + "\n");
                 }
@@ -166,7 +173,7 @@ namespace Rouba_Monte
             catch
             {
                 throw new Exception("Erro!");
-            } 
+            }
         }
         public Fila ColocarPlayer(int numdeJogador)
         {
