@@ -99,10 +99,7 @@ namespace Rouba_Monte
                                 }
                                 Console.Write("\n");
                             }
-                            else
-                            {
-                              Console.WriteLine("Jogador não consta no jogo.");
-                            }
+            
                         }
                         break;
                     case 3:
