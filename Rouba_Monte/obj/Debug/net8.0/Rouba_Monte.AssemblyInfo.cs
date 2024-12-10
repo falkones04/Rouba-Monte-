@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rouba_Monte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+383833a71cf7bf74dd66f322edf4db6c3f1e86c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a93da40c77a2d89de10b5c4e0db22a740cbcd3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rouba_Monte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rouba_Monte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

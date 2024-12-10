@@ -85,6 +85,7 @@ namespace Rouba_Monte
                         }
                         break;
                     case 2:
+                        Console.WriteLine("Insira o nome do jogador:");
                         string nome = Console.ReadLine();
                         foreach (var jogador1 in mesa1.jogadores)
                         {
