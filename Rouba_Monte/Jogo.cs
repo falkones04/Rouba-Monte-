@@ -100,8 +100,18 @@ namespace Rouba_Monte
         {
             bool continuarJogando = false;
             Console.WriteLine("Escreva o nome do primeiro jogador");
-            string nome = Console.ReadLine();
-            Jogador jogadorAtual = jogadores.PrimeiroJogador(nome);
+            Jogador jogadorAtual;
+            while(true)
+            {
+            string nome = Console.ReadLine().Trim();
+            jogadorAtual = jogadores.PrimeiroJogador(nome);
+            if(jogadorAtual == null)
+            {
+                System.Console.WriteLine("Entrada inválida,por fafor. Insira um nome valido.");
+                jogadorAtual = jogadores.PrimeiroJogador(nome);
+            }else
+                break;
+            }
             int round = 1;
             string barra = $"============================================================";
             RegistrarLog(barra);

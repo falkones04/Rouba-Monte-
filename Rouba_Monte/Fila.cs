@@ -32,7 +32,7 @@ namespace Rouba_Monte
                     return array[i];
                 }
             }
-            throw new Exception($"Jogador com nome {nome} não encontrado.");
+            return null;
         }
         public Jogador ProximoJogador()
         {
@@ -62,7 +62,7 @@ namespace Rouba_Monte
         {
             int count = array.Length - 1;
             Jogador[] temp = new Jogador[count];
-            for (int i = 0; i < count; i++)
+            for (int i = primeiro; i <ultimo; i++)
                 temp[i] = array[i];
             QuickSort(temp, 0, count - 1);
             return temp;
@@ -71,7 +71,7 @@ namespace Rouba_Monte
         {
             int pivo = array[(dir + esq) / 2].QtdDeCartasUlt;
             int j = dir, i = esq;
-            while (i < j)
+            while (i <= j)
             {
                 while (array[i].QtdDeCartasUlt > pivo)
                     i++;
@@ -82,13 +82,15 @@ namespace Rouba_Monte
                     Jogador temp = array[i];
                     array[i] = array[j];
                     array[j] = temp;
+                    j--;
+                    i++;
                 }
             }
             if (esq < j)
             {
                 QuickSort(array, esq, j);
             }
-            if (i > dir)
+            if (i < dir)
             {
                 QuickSort(array, i, dir);
             }
