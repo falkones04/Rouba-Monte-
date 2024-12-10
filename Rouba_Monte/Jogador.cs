@@ -1,10 +1,12 @@
-﻿namespace Rouba_Monte
+﻿using System.Reflection;
+
+namespace Rouba_Monte
 {
     internal class Jogador
     {
         private string nome;
         private int qtdDeCartasUlt;
-        private Queue<int> ranking;
+        public Queue<int> ranking;
         private int pos;
         public Stack<Carta> monte;
 
@@ -23,8 +25,8 @@
         }
         public int QtdDeCartasUlt
         {
-            get { return QtdDeCartasUlt; }
-            set { QtdDeCartasUlt = value; }
+            get { return qtdDeCartasUlt; }
+            set { qtdDeCartasUlt = value; }
         }
         public int Pos
         {
@@ -34,6 +36,15 @@
         public Queue<int> GetRanking()
         {
             return ranking;
+        }
+        public void AdicionarRanking(int pos)
+        {
+            if (ranking.Count==5)
+            {
+                ranking.Dequeue(); 
+            }
+            ranking.Enqueue(pos);
+            this.pos = pos;
         }
     }
 }

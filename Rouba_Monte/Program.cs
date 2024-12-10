@@ -37,7 +37,6 @@ namespace Rouba_Monte
                             int numJogador = int.Parse(Console.ReadLine());
                             mesa1 = new Jogo(numCartas, numJogador);
                             jogador = mesa1.ColocarPlayer(numJogador);
-                            mesa1.ExibirBaralho();
                             mesa1.RealizarPartida();
                             Console.WriteLine("Deseja jogar novamente? S ou N");
                                 if (Console.ReadLine()?.ToUpper().Trim() == "S")
@@ -53,7 +52,6 @@ namespace Rouba_Monte
                             Console.WriteLine("Insira o numero de cartas");
                             int numCartas = int.Parse(Console.ReadLine());
                             mesa1 = new Jogo(numCartas, jogador);
-                            mesa1.ExibirBaralho();
                             mesa1.RealizarPartida();
                             Console.WriteLine("Deseja jogar novamente? S ou N");
                                 if(Console.ReadLine()?.ToUpper().Trim() == "S")
@@ -69,8 +67,19 @@ namespace Rouba_Monte
                     }
                         break;
                     case 2:
-                        //O ranking historico não é automatico, pesquisa o jogador e DE ACORDO COM A PESQUISA mostra o ranking do jogador nas ultimas 5 rodadas
-                        //NAO AUTOMATIZA, É SO PESQUISA MEMO
+                        string nome = Console.ReadLine();
+                        foreach (var jogador1 in mesa1.jogadores)
+                        {
+                            if(jogador1.Nome==nome)
+                            {
+                                Console.Write($"Ranking {nome}:\n");
+                                int[] temp = jogador1.ranking.ToArray();
+                                for(int i =0; i<temp.Length;i++){
+                                     Console.Write($"{temp[i]} ");
+                                }
+                                Console.Write("\n");
+                            }
+                        }
                         break;
                     case 3:
                         Console.WriteLine("Fim");

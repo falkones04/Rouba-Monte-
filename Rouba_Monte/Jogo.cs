@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
+using System.Runtime.InteropServices;
 
 namespace Rouba_Monte
 {
@@ -22,6 +23,7 @@ namespace Rouba_Monte
             foreach (var jogador in jogadores)
             {
                 jogador.monte.Clear();
+                jogador.QtdDeCartasUlt = 0;
             }
             baralho.Clear();
             IniciarBaralho(numDeBaralhos, numDeExcedentes);
@@ -106,7 +108,6 @@ namespace Rouba_Monte
             while (true)
             {
                 Carta cartaDaVez = ComprarCartaDaVez();
-                {
                     if (cartaDaVez != null)
                     {
                         Console.WriteLine($"Round: {round}");
@@ -138,26 +139,78 @@ namespace Rouba_Monte
                         }
                         areaDeDescarte.Add(cartaDaVez);
                         Console.WriteLine($"{jogadorAtual.Nome} colocou a carta {cartaDaVez} na área de descarte.");
+                        if (jogadorAtual != null)
+                            jogadorAtual.QtdDeCartasUlt = jogadorAtual.monte.Count;
                         jogadorAtual = jogadores.ProximoJogador();
                         round++;
                     }
                     else
                     {
+                        jogadorAtual.QtdDeCartasUlt = jogadorAtual.monte.Count;
                         RegistrarVencedor();
                         Console.WriteLine("Fim De Jogo");
                         RegistrarLog(barra);
                         break;
                     }
-                }
-
             }
         }
         private void RegistrarVencedor()
         {
-        }
-        public static int CompararPorMonte(Jogador j1, Jogador j2)
-        {
-            return j2.monte.Count.CompareTo(j1.monte.Count);
+            int sum = 0; 
+            foreach (var jogador in jogadores)
+            {
+                sum+=jogador.monte.Count;
+            }
+            if (sum==0){
+                int pos = 1; 
+                 foreach (var jogador in jogadores)
+                {
+                    jogador.Pos = pos;
+                    jogador.AdicionarRanking(pos);
+                }
+                Console.WriteLine("Todos os jogadores empataram");
+                string frase = "Todos os jogadores empataram";
+                foreach (var jogador in jogadores)
+                {
+                   Console.WriteLine($"{jogador.Pos}. {jogador.Nome} com {jogador.QtdDeCartasUlt} cartas.");
+                }
+            }else{
+
+            int pos = 1;
+            Jogador[] ranking = jogadores.Ordenar();
+            int maiorQtd = ranking[0].QtdDeCartasUlt;
+            List<Jogador> vencedores = new List<Jogador>();
+            vencedores.Add(ranking[0]);
+            foreach (var jogador in ranking)
+            {
+                jogador.Pos = pos;
+                jogador.AdicionarRanking(pos);
+                if (jogador.QtdDeCartasUlt == maiorQtd &&jogador!=ranking[0])
+                {
+                    pos--;
+                    jogador.Pos= pos;
+                    jogador.AdicionarRanking(pos);
+                    vencedores.Add(jogador);
+                }
+                pos++;
+            }
+            Console.WriteLine("Vencedores:");
+            string frase = "Vencedores: ";
+            foreach (var vencedor in vencedores)
+            {
+                Console.WriteLine($"{vencedor.Pos}. {vencedor.Nome} com {vencedor.QtdDeCartasUlt} cartas.");
+                frase += $"{vencedor.Pos}-{vencedor.Nome} ({vencedor.QtdDeCartasUlt} cartas), ";
+                pos++;
+            }
+            frase = frase.TrimEnd(',', ' ') + ".";
+            Console.WriteLine("Ranking da partida:");
+            RegistrarLog(frase); 
+            foreach(var jogador in ranking)
+            {
+                 Console.WriteLine($"{jogador.Pos}.{jogador.Nome} com {jogador.QtdDeCartasUlt} cartas.");
+            }
+                 Console.WriteLine($"area de descarte {this.areaDeDescarte.Count}");
+            }
         }
         private void RegistrarLog(string x)
         {
@@ -231,6 +284,7 @@ namespace Rouba_Monte
                 RegistrarLog(frase);
                 PegarOMonte(jogadorAtual, jogadorParaRoubar);
                 jogadorAtual.monte.Push(cartaDaVez);
+                jogadorParaRoubar.QtdDeCartasUlt = jogadorParaRoubar.monte.Count;
                 return true;
             }
             return false;

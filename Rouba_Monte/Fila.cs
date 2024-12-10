@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 
 namespace Rouba_Monte
 {
@@ -24,15 +25,14 @@ namespace Rouba_Monte
         {
             if (primeiro == ultimo)
                 throw new Exception("Erro! A fila está vazia.");
-            Jogador resp = null;
-            for (int i = 0; i != ultimo; i++)
+            for (int i = primeiro; i != ultimo; i = (i + 1) % array.Length)
             {
                 if (nome == array[i].Nome)
                 {
-                    resp = array[i];
+                    return array[i];
                 }
             }
-            return resp;
+            throw new Exception($"Jogador com nome {nome} não encontrado.");
         }
         public Jogador ProximoJogador()
         {
@@ -56,6 +56,42 @@ namespace Rouba_Monte
         IEnumerator IEnumerable.GetEnumerator()
         {
             return GetEnumerator();
+        }
+
+        public Jogador[] Ordenar()
+        {
+            int count = array.Length - 1;
+            Jogador[] temp = new Jogador[count];
+            for (int i = 0; i < count; i++)
+                temp[i] = array[i];
+            QuickSort(temp, 0, count - 1);
+            return temp;
+        }
+        private void QuickSort(Jogador[] array, int esq, int dir)
+        {
+            int pivo = array[(dir + esq) / 2].QtdDeCartasUlt;
+            int j = dir, i = esq;
+            while (i < j)
+            {
+                while (array[i].QtdDeCartasUlt > pivo)
+                    i++;
+                while (array[j].QtdDeCartasUlt < pivo)
+                    j--;
+                if (i<=j)
+                {
+                    Jogador temp = array[i];
+                    array[i] = array[j];
+                    array[j] = temp;
+                }
+            }
+            if (esq < j)
+            {
+                QuickSort(array, esq, j);
+            }
+            if (i > dir)
+            {
+                QuickSort(array, i, dir);
+            }
         }
 
     }
