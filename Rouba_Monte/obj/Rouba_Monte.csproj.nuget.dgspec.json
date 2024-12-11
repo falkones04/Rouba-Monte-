@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudo\\Github\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj": {}
+    "C:\\Users\\Falkin\\Documents\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj": {}
   },
   "projects": {
-    "C:\\Estudo\\Github\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj": {
+    "C:\\Users\\Falkin\\Documents\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudo\\Github\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj",
+        "projectUniqueName": "C:\\Users\\Falkin\\Documents\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj",
         "projectName": "Rouba_Monte",
-        "projectPath": "C:\\Estudo\\Github\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj",
-        "packagesPath": "C:\\Users\\sgvieira1\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudo\\Github\\Rouba-Monte-\\Rouba_Monte\\obj\\",
+        "projectPath": "C:\\Users\\Falkin\\Documents\\Rouba-Monte-\\Rouba_Monte\\Rouba_Monte.csproj",
+        "packagesPath": "C:\\Users\\Falkin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Falkin\\Documents\\Rouba-Monte-\\Rouba_Monte\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sgvieira1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Falkin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

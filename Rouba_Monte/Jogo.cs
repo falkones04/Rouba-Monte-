@@ -27,6 +27,8 @@ namespace Rouba_Monte
             }
             baralho.Clear();
             IniciarBaralho(numDeBaralhos, numDeExcedentes);
+            string frase = $"Baralho criado com {numDeCartas}";
+            RegistrarLog(frase);
         }
         public Jogo(int numDeCartas, int numDeJogador)
         {
@@ -37,6 +39,8 @@ namespace Rouba_Monte
             int numDeExcedentes = numDeCartas % 52;
 
             IniciarBaralho(numDeBaralhos, numDeExcedentes);
+            string frase = $"Baralho criado com {numDeCartas}";
+            RegistrarLog(frase);
         }
         private void IniciarBaralho(int numBaralhos, int NumExcedentes)
         {
@@ -99,9 +103,11 @@ namespace Rouba_Monte
                 else
                     break;
             }
+            string primeiroJogador = $"Primeiro jogador: {jogadorAtual.Nome}";
             int round = 1;
             string barra = $"============================================================";
             RegistrarLog(barra);
+            RegistrarLog(primeiroJogador);
             while (true)
             {
                 Carta cartaDaVez = ComprarCartaDaVez();
@@ -218,7 +224,7 @@ namespace Rouba_Monte
         }
         private void RegistrarLog(string x)
         {
-            string path = @"C:\Estudo\Github\Rouba-Monte-\Rouba_Monte\log.txt";
+            string path = @"C:\Users\Falkin\Documents\Rouba-Monte-\Rouba_Monte\log.txt";
             try
             {
                 using (StreamWriter frase = new StreamWriter(path, append: true))

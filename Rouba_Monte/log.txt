@@ -1,282 +1,293 @@
+Baralho criado com 52
+
 ============================================================
+
+Primeiro jn
+ogador: samuel
 
 Round: 1
 
-s comprou a carta: 6♥
+samuel comprou a carta: 1♦
 
 Round: 2
 
-a comprou a carta: 5♣
+sabrina comprou a carta: 9♥
 
 Round: 3
 
-s comprou a carta: 5♦
-
-s pegou a carta 5♣ da area de descarte! e o Monte tem 2 cartas
+maria comprou a carta: 11♥
 
 Round: 4
 
-s comprou a carta: 10♥
+samuel comprou a carta: 2♥
 
 Round: 5
 
-a comprou a carta: 1♠
+falk comprou a carta: 4♦
 
 Round: 6
 
-s comprou a carta: 8♠
+sabrina comprou a carta: 8♥
 
 Round: 7
 
-a comprou a carta: 4♦
+maria comprou a carta: 11♦
+
+maria pegou a carta 11♥ da area de descarte! e o Monte tem 2 cartas
 
 Round: 8
 
-s comprou a carta: 1♥
-
-s pegou a carta 1♠ da area de descarte! e o Monte tem 4 cartas
+maria comprou a carta: 6♠
 
 Round: 9
 
-s comprou a carta: 12♦
+samuel comprou a carta: 6♥
+
+samuel pegou a carta 6♠ da area de descarte! e o Monte tem 2 cartas
 
 Round: 10
 
-a comprou a carta: 2♣
+samuel comprou a carta: 10♦
 
 Round: 11
 
-s comprou a carta: 12♠
+falk comprou a carta: 6♣
 
-s pegou a carta 12♦ da area de descarte! e o Monte tem 6 cartas
+falk roubou o monte de samuel!
 
 Round: 12
 
-s comprou a carta: 5♥
+falk comprou a carta: 5♥
 
 Round: 13
 
-a comprou a carta: 3♠
+sabrina comprou a carta: 8♣
+
+sabrina pegou a carta 8♥ da area de descarte! e o Monte tem 2 cartas
 
 Round: 14
 
-s comprou a carta: 11♥
+sabrina comprou a carta: 3♠
 
 Round: 15
 
-a comprou a carta: 12♥
+maria comprou a carta: 11♣
 
-a roubou o monte de s!
+maria colocou a carta no topo do próprio monte!
+
+O jogador maria agora tem 3 cartas.
 
 Round: 16
 
-a comprou a carta: 3♥
+maria comprou a carta: 8♦
 
-a pegou a carta 3♠ da area de descarte! e o Monte tem 9 cartas
+maria roubou o monte de sabrina!
 
 Round: 17
 
-a comprou a carta: 7♣
+maria comprou a carta: 8♠
+
+maria colocou a carta no topo do próprio monte!
+
+O jogador maria agora tem 7 cartas.
 
 Round: 18
 
-s comprou a carta: 4♥
+maria comprou a carta: 6♦
 
-s pegou a carta 4♦ da area de descarte! e o Monte tem 2 cartas
+maria roubou o monte de falk!
 
 Round: 19
 
-s comprou a carta: 1♦
+maria comprou a carta: 2♠
+
+maria pegou a carta 2♥ da area de descarte! e o Monte tem 13 cartas
 
 Round: 20
 
-a comprou a carta: 11♣
-
-a pegou a carta 11♥ da area de descarte! e o Monte tem 11 cartas
+maria comprou a carta: 13♠
 
 Round: 21
 
-a comprou a carta: 4♠
+samuel comprou a carta: 2♣
 
-a roubou o monte de s!
+samuel roubou o monte de maria!
 
 Round: 22
 
-a comprou a carta: 13♥
+samuel comprou a carta: 7♠
 
 Round: 23
 
-s comprou a carta: 11♦
+falk comprou a carta: 4♣
+
+falk pegou a carta 4♦ da area de descarte! e o Monte tem 2 cartas
 
 Round: 24
 
-a comprou a carta: 4♣
+falk comprou a carta: 10♥
 
-a colocou a carta no topo do próprio monte!
-
-O jogador a agora tem 15 cartas.
+falk pegou a carta 10♦ da area de descarte! e o Monte tem 4 cartas
 
 Round: 25
 
-a comprou a carta: 2♦
+falk comprou a carta: 3♥
 
-a pegou a carta 2♣ da area de descarte! e o Monte tem 17 cartas
+falk pegou a carta 3♠ da area de descarte! e o Monte tem 6 cartas
 
 Round: 26
 
-a comprou a carta: 10♣
-
-a pegou a carta 10♥ da area de descarte! e o Monte tem 19 cartas
+falk comprou a carta: 10♠
 
 Round: 27
 
-a comprou a carta: 9♦
+sabrina comprou a carta: 9♠
+
+sabrina pegou a carta 9♥ da area de descarte! e o Monte tem 2 cartas
 
 Round: 28
 
-s comprou a carta: 7♥
-
-s pegou a carta 7♣ da area de descarte! e o Monte tem 2 cartas
+sabrina comprou a carta: 12♠
 
 Round: 29
 
-s comprou a carta: 3♣
+maria comprou a carta: 5♦
+
+maria pegou a carta 5♥ da area de descarte! e o Monte tem 2 cartas
 
 Round: 30
 
-a comprou a carta: 10♠
+maria comprou a carta: 3♦
 
-a colocou a carta no topo do próprio monte!
-
-O jogador a agora tem 20 cartas.
+maria roubou o monte de falk!
 
 Round: 31
 
-a comprou a carta: 6♠
+maria comprou a carta: 12♦
 
-a pegou a carta 6♥ da area de descarte! e o Monte tem 22 cartas
+maria pegou a carta 12♠ da area de descarte! e o Monte tem 11 cartas
 
 Round: 32
 
-a comprou a carta: 13♣
+maria comprou a carta: 10♣
 
-a pegou a carta 13♥ da area de descarte! e o Monte tem 24 cartas
+maria pegou a carta 10♠ da area de descarte! e o Monte tem 13 cartas
 
 Round: 33
 
-a comprou a carta: 6♦
+maria comprou a carta: 1♠
+
+maria pegou a carta 1♦ da area de descarte! e o Monte tem 15 cartas
 
 Round: 34
 
-s comprou a carta: 13♦
-
-s roubou o monte de a!
+maria comprou a carta: 3♣
 
 Round: 35
 
-s comprou a carta: 2♥
+samuel comprou a carta: 5♠
 
 Round: 36
 
-a comprou a carta: 9♣
+falk comprou a carta: 7♦
 
-a pegou a carta 9♦ da area de descarte! e o Monte tem 2 cartas
+falk pegou a carta 7♠ da area de descarte! e o Monte tem 2 cartas
 
 Round: 37
 
-a comprou a carta: 5♠
+falk comprou a carta: 7♣
 
-a pegou a carta 5♥ da area de descarte! e o Monte tem 4 cartas
+falk colocou a carta no topo do próprio monte!
+
+O jogador falk agora tem 3 cartas.
 
 Round: 38
 
-a comprou a carta: 12♣
+falk comprou a carta: 1♥
+
+falk roubou o monte de maria!
 
 Round: 39
 
-s comprou a carta: 13♠
+falk comprou a carta: 9♦
 
-s colocou a carta no topo do próprio monte!
-
-O jogador s agora tem 28 cartas.
+falk roubou o monte de sabrina!
 
 Round: 40
 
-s comprou a carta: 8♥
+falk comprou a carta: 13♥
 
-s pegou a carta 8♠ da area de descarte! e o Monte tem 30 cartas
+falk pegou a carta 13♠ da area de descarte! e o Monte tem 24 cartas
 
 Round: 41
 
-s comprou a carta: 11♠
+falk comprou a carta: 5♣
 
-s pegou a carta 11♦ da area de descarte! e o Monte tem 32 cartas
+falk pegou a carta 5♠ da area de descarte! e o Monte tem 26 cartas
 
 Round: 42
 
-s comprou a carta: 6♣
-
-s pegou a carta 6♦ da area de descarte! e o Monte tem 34 cartas
+falk comprou a carta: 12♥
 
 Round: 43
 
-s comprou a carta: 9♥
+sabrina comprou a carta: 7♥
 
 Round: 44
 
-a comprou a carta: 8♣
+maria comprou a carta: 9♣
 
 Round: 45
 
-s comprou a carta: 7♦
+samuel comprou a carta: 13♦
 
 Round: 46
 
-a comprou a carta: 1♣
+falk comprou a carta: 2♦
 
-a pegou a carta 1♦ da area de descarte! e o Monte tem 6 cartas
+falk roubou o monte de samuel!
 
 Round: 47
 
-a comprou a carta: 7♠
+falk comprou a carta: 12♣
 
-a pegou a carta 7♦ da area de descarte! e o Monte tem 8 cartas
+falk pegou a carta 12♥ da area de descarte! e o Monte tem 43 cartas
 
 Round: 48
 
-a comprou a carta: 3♦
-
-a pegou a carta 3♣ da area de descarte! e o Monte tem 10 cartas
+falk comprou a carta: 4♥
 
 Round: 49
 
-a comprou a carta: 8♦
+sabrina comprou a carta: 4♠
 
-a pegou a carta 8♣ da area de descarte! e o Monte tem 12 cartas
+sabrina pegou a carta 4♥ da area de descarte! e o Monte tem 2 cartas
 
 Round: 50
 
-a comprou a carta: 2♠
-
-a pegou a carta 2♥ da area de descarte! e o Monte tem 14 cartas
+sabrina comprou a carta: 11♠
 
 Round: 51
 
-a comprou a carta: 9♠
-
-a pegou a carta 9♥ da area de descarte! e o Monte tem 16 cartas
+maria comprou a carta: 1♣
 
 Round: 52
 
-a comprou a carta: 10♦
+samuel comprou a carta: 13♣
 
-Vencedores: 1-s (34 cartas).
+samuel pegou a carta 13♦ da area de descarte! e o Monte tem 2 cartas
+
+Vencedores: 1-falk (43 cartas).
 
 Ranking da partida:
 
-1.s com 34 cartas.
+1.falk com 43 cartas.
 
-2.a com 16 cartas.
+2.samuel com 2 cartas.
+
+3.sabrina com 2 cartas.
+
+4.maria com 0 cartas.
 
 ============================================================
 

@@ -31,7 +31,7 @@ namespace Rouba_Monte
         }
         static void LimparLog()
         {
-            string path = @"C:\Estudo\Github\Rouba-Monte-\Rouba_Monte\log.txt";
+            string path = @"C:\Users\Falkin\Documents\Rouba-Monte-\Rouba_Monte\log.txt";
             try
             {
                 using (StreamWriter frase = new StreamWriter(path, append: false)){ }
@@ -115,6 +115,10 @@ namespace Rouba_Monte
                         break;
                     case 3:
                         Console.WriteLine("Fim");
+                        break;
+                    default: 
+                        Console.Clear();
+                        Console.WriteLine("Opção invalida");
                         break;
                 }
             }
