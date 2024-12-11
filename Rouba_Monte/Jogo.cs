@@ -82,35 +82,22 @@ namespace Rouba_Monte
                 list[randomIndex] = temp;
             }
         }
-        public void ExibirBaralho()
-        {
-            if (baralho.Count == 0)
-            {
-                Console.WriteLine("O baralho está vazio.");
-                return;
-            }
-
-            Console.WriteLine("Cartas no baralho:");
-            foreach (var carta in baralho)
-            {
-                Console.WriteLine($"{carta}");
-            }
-        }
         public void RealizarPartida()
         {
             bool continuarJogando = false;
             Console.WriteLine("Escreva o nome do primeiro jogador");
             Jogador jogadorAtual;
-            while(true)
+            while (true)
             {
-            string nome = Console.ReadLine().Trim();
-            jogadorAtual = jogadores.PrimeiroJogador(nome);
-            if(jogadorAtual == null)
-            {
-                System.Console.WriteLine("Entrada inválida,por fafor. Insira um nome valido.");
+                string nome = Console.ReadLine().Trim();
                 jogadorAtual = jogadores.PrimeiroJogador(nome);
-            }else
-                break;
+                if (jogadorAtual == null)
+                {
+                    System.Console.WriteLine("Entrada inválida,por fafor. Insira um nome valido.");
+                    jogadorAtual = jogadores.PrimeiroJogador(nome);
+                }
+                else
+                    break;
             }
             int round = 1;
             string barra = $"============================================================";
@@ -118,62 +105,63 @@ namespace Rouba_Monte
             while (true)
             {
                 Carta cartaDaVez = ComprarCartaDaVez();
-                    if (cartaDaVez != null)
+                if (cartaDaVez != null)
+                {
+                    Console.WriteLine($"Round: {round}");
+                    string round1 = $"Round: {round.ToString()}";
+                    RegistrarLog(round1);
+                    Console.WriteLine($"{jogadorAtual.Nome} comprou a carta: {cartaDaVez}");
+                    string frase = $"{jogadorAtual.Nome} comprou a carta: {cartaDaVez}";
+                    RegistrarLog(frase);
+
+                    continuarJogando = Roubar(jogadorAtual, cartaDaVez);
+                    if (continuarJogando)
                     {
-                        Console.WriteLine($"Round: {round}");
-                        string round1 = $"Round: {round.ToString()}";
-                        RegistrarLog(round1);
-                        Console.WriteLine($"{jogadorAtual.Nome} comprou a carta: {cartaDaVez}");
-                        string frase = $"{jogadorAtual.Nome} comprou a carta: {cartaDaVez}";
-                        RegistrarLog(frase);
-
-                        continuarJogando = Roubar(jogadorAtual, cartaDaVez);
-                        if (continuarJogando)
-                        {
-                            round++;
-                            continue;
-                        }
-
-                        continuarJogando = BuscarDescarte(jogadorAtual, cartaDaVez);
-                        if (continuarJogando)
-                        {
-                            round++;
-                            continue;
-                        }
-
-                        continuarJogando = Colocar(jogadorAtual, cartaDaVez);
-                        if (continuarJogando)
-                        {
-                            round++;
-                            continue;
-                        }
-                        areaDeDescarte.Add(cartaDaVez);
-                        Console.WriteLine($"{jogadorAtual.Nome} colocou a carta {cartaDaVez} na área de descarte.");
-                        if (jogadorAtual != null)
-                            jogadorAtual.QtdDeCartasUlt = jogadorAtual.monte.Count;
-                        jogadorAtual = jogadores.ProximoJogador();
                         round++;
+                        continue;
                     }
-                    else
+
+                    continuarJogando = BuscarDescarte(jogadorAtual, cartaDaVez);
+                    if (continuarJogando)
                     {
-                        jogadorAtual.QtdDeCartasUlt = jogadorAtual.monte.Count;
-                        RegistrarVencedor();
-                        Console.WriteLine("Fim De Jogo");
-                        RegistrarLog(barra);
-                        break;
+                        round++;
+                        continue;
                     }
+
+                    continuarJogando = Colocar(jogadorAtual, cartaDaVez);
+                    if (continuarJogando)
+                    {
+                        round++;
+                        continue;
+                    }
+                    areaDeDescarte.Add(cartaDaVez);
+                    Console.WriteLine($"{jogadorAtual.Nome} colocou a carta {cartaDaVez} na área de descarte.");
+                    if (jogadorAtual != null)
+                        jogadorAtual.QtdDeCartasUlt = jogadorAtual.monte.Count;
+                    jogadorAtual = jogadores.ProximoJogador();
+                    round++;
+                }
+                else
+                {
+                    jogadorAtual.QtdDeCartasUlt = jogadorAtual.monte.Count;
+                    RegistrarVencedor();
+                    Console.WriteLine("Fim De Jogo");
+                    RegistrarLog(barra);
+                    break;
+                }
             }
         }
         private void RegistrarVencedor()
         {
-            int sum = 0; 
+            int sum = 0;
             foreach (var jogador in jogadores)
             {
-                sum+=jogador.monte.Count;
+                sum += jogador.monte.Count;
             }
-            if (sum==0){
-                int pos = 1; 
-                 foreach (var jogador in jogadores)
+            if (sum == 0)
+            {
+                int pos = 1;
+                foreach (var jogador in jogadores)
                 {
                     jogador.Pos = pos;
                     jogador.AdicionarRanking(pos);
@@ -182,60 +170,84 @@ namespace Rouba_Monte
                 string frase = "Todos os jogadores empataram";
                 foreach (var jogador in jogadores)
                 {
-                   Console.WriteLine($"{jogador.Pos}. {jogador.Nome} com {jogador.QtdDeCartasUlt} cartas.");
+                    Console.WriteLine($"{jogador.Pos}. {jogador.Nome} com {jogador.QtdDeCartasUlt} cartas.");
                 }
-            }else{
+            }
+            else
+            {
 
-            int pos = 1;
-            Jogador[] ranking = jogadores.Ordenar();
-            int maiorQtd = ranking[0].QtdDeCartasUlt;
-            List<Jogador> vencedores = new List<Jogador>();
-            vencedores.Add(ranking[0]);
-            foreach (var jogador in ranking)
-            {
-                jogador.Pos = pos;
-                jogador.AdicionarRanking(pos);
-                if (jogador.QtdDeCartasUlt == maiorQtd &&jogador!=ranking[0])
+                int pos = 1;
+                Jogador[] ranking = jogadores.Ordenar();
+                int maiorQtd = ranking[0].QtdDeCartasUlt;
+                List<Jogador> vencedores = new List<Jogador>();
+                vencedores.Add(ranking[0]);
+                foreach (var jogador in ranking)
                 {
-                    pos--;
-                    jogador.Pos= pos;
+                    jogador.Pos = pos;
                     jogador.AdicionarRanking(pos);
-                    vencedores.Add(jogador);
+                    if (jogador.QtdDeCartasUlt == maiorQtd && jogador != ranking[0])
+                    {
+                        pos--;
+                        jogador.Pos = pos;
+                        jogador.AdicionarRanking(pos);
+                        vencedores.Add(jogador);
+                    }
+                    pos++;
                 }
-                pos++;
-            }
-            Console.WriteLine("Vencedores:");
-            string frase = "Vencedores: ";
-            foreach (var vencedor in vencedores)
-            {
-                Console.WriteLine($"{vencedor.Pos}. {vencedor.Nome} com {vencedor.QtdDeCartasUlt} cartas.");
-                frase += $"{vencedor.Pos}-{vencedor.Nome} ({vencedor.QtdDeCartasUlt} cartas), ";
-                pos++;
-            }
-            frase = frase.TrimEnd(',', ' ') + ".";
-            Console.WriteLine("Ranking da partida:");
-            RegistrarLog(frase); 
-            foreach(var jogador in ranking)
-            {
-                 Console.WriteLine($"{jogador.Pos}.{jogador.Nome} com {jogador.QtdDeCartasUlt} cartas.");
-            }
-                 Console.WriteLine($"area de descarte {this.areaDeDescarte.Count}");
+                Console.WriteLine("Vencedores:");
+                string frase = "Vencedores: ";
+                foreach (var vencedor in vencedores)
+                {
+                    Console.WriteLine($"{vencedor.Pos}. {vencedor.Nome} com {vencedor.QtdDeCartasUlt} cartas.");
+                    frase += $"{vencedor.Pos}-{vencedor.Nome} ({vencedor.QtdDeCartasUlt} cartas), ";
+
+                    pos++;
+                }
+                frase = frase.TrimEnd(',', ' ') + ".";
+                RegistrarLog(frase);
+                Console.WriteLine("Ranking da partida:");
+                frase = "Ranking da partida:";
+                RegistrarLog(frase);
+                foreach (var jogador in ranking)
+                {
+                    Console.WriteLine($"{jogador.Pos}.{jogador.Nome} com {jogador.QtdDeCartasUlt} cartas.");
+                    frase = $"{jogador.Pos}.{jogador.Nome} com {jogador.QtdDeCartasUlt} cartas.";
+                    RegistrarLog(frase);
+                }
             }
         }
         private void RegistrarLog(string x)
         {
-            string path = @"C:\Users\Falkin\Documents\Rouba-Monte-\Rouba_Monte\log.txt";
+            string path = @"C:\Estudo\Github\Rouba-Monte-\Rouba_Monte\log.txt";
             try
             {
                 using (StreamWriter frase = new StreamWriter(path, append: true))
                 {
                     frase.WriteLine(x + "\n");
                 }
-
             }
             catch
             {
                 throw new Exception("Erro!");
+            }
+        }
+        public void InserirRanking(string x)
+        {
+            string frase;
+            foreach (var jogador1 in jogadores)
+            {
+                if (jogador1.Nome == x)
+                {
+                    frase = $"Ranking {x}:\n";
+                    RegistrarLog(frase);
+                    int[] temp = jogador1.ranking.ToArray();
+                    for (int i = 0; i < temp.Length; i++)
+                    {
+                        frase = $"{temp[i]} ";
+                        RegistrarLog(frase);
+                    }
+                    Console.Write("\n");
+                }
             }
         }
         public Fila ColocarPlayer(int numdeJogador)
@@ -360,6 +372,5 @@ namespace Rouba_Monte
             }
             return null;
         }
-
     }
 }

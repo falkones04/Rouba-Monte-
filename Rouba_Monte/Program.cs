@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Reflection.Metadata;
 
 namespace Rouba_Monte
 {
@@ -30,7 +29,18 @@ namespace Rouba_Monte
                 }
             }
         }
-
+        static void LimparLog()
+        {
+            string path = @"C:\Estudo\Github\Rouba-Monte-\Rouba_Monte\log.txt";
+            try
+            {
+                using (StreamWriter frase = new StreamWriter(path, append: false)){ }
+            }
+            catch
+            {
+                throw new Exception("Erro!");
+            }
+        }
         static void Main(string[] args)
         {
             Jogo mesa1 = null;
@@ -49,6 +59,7 @@ namespace Rouba_Monte
                         {
                             if (jogador == null)
                             {
+                                LimparLog();   
                                 Console.WriteLine("Insira o numero de cartas");
                                 int numCartas = LerNumero(); 
                                 Console.WriteLine("Insira o numero de jogadores");

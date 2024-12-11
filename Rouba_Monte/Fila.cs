@@ -95,8 +95,5 @@ namespace Rouba_Monte
                 QuickSort(array, i, dir);
             }
         }
-
     }
-
-
 }
